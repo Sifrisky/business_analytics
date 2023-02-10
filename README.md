@@ -3,10 +3,22 @@ Este repositorio esta hecho con la finalidad de presentar mis proyectos de Busin
 
 ## Actividad 1. Análisis descriptivo
 
-_Abrí un repositorio de github y lo asocié a google colab para poder realizar las actividades en un ambiente colaborativo y con un lenguaje que me está interesando. 
-una aplicación de escritorio sencilla en la cual vamos a consumir información traída desde OMDBAPI._
-_Hice uso de Axios para realizar las peticiones y utilizamos **Vue.JS** como framework de JavaScript._
+_La tarea se realizó con las herramientas de google colab para el desarrollo y anális de lso resultados a partir de una base de datos creada para el estudio. _
 
+# Objetivo de estudio: 
+
+Campaña de anuncios para captación de potenciales clientes en linkedin, facebook e instagram durante 3 meses.
+
+
+# Análisis:
+
+- Descriptivo: Mostrar la información de la base de datos de Tata films en gráficos visuales sintetizados en los KPIS más relevantes.
+
+-Diagnóstico: Implementación de looker studio  para tableros de control del departamento de Marketing.
+
+- Predictivo: Modelo predictivo para mostrar insights relevantes para la comunicación y programación de contenido de la agencia y fomentar la toma de decisiones gerenciales.
+
+- Prescriptivo: Basado en el modelo predictivo, definir, organizar y crear campañas más eficientes que potencien el branding multimedio.
 
 <--! # Preview
 
@@ -14,20 +26,24 @@ _Hice uso de Axios para realizar las peticiones y utilizamos **Vue.JS** como fra
 
 # Comenzamos 🚀
 
-
 Para ver el cuaderno de jupiter en google colab solo deberá hacer click en la imagen de googlecolab y abrirá el enlace con los calculos realizados.
 Si eres Ceci, ya tienes los accesos y puedes verlo directamente :)
+
+⚒️ Herramienta: 
+
+- Google colab
+- Github : 'https://raw.githubusercontent.com/Sifrisky/business_analytics/main/data_tata.csv'
+- python
+- Excel, csv, gsheets
 
 # Instalaciones:
 
 Pandas para analisis 
-
 ```
 import pandas as pd
 ```
 
 Plotly para gráficos
-
 ```
 import plotly.express as px
 ```
