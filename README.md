@@ -26,7 +26,7 @@ Campaña de anuncios para captación de potenciales clientes en linkedin, facebo
 Para ver el cuaderno de jupiter en google colab solo deberá hacer click en la imagen de googlecolab y abrirá el enlace con los calculos realizados.
 Si eres Ceci, ya tienes los accesos y puedes verlo directamente :)
 
-⚒️ Herramienta: 
+# Herramientas: ⚒️
 
 - Google colab
 - Github : 'https://raw.githubusercontent.com/Sifrisky/business_analytics/main/data_tata.csv'
@@ -35,13 +35,9 @@ Si eres Ceci, ya tienes los accesos y puedes verlo directamente :)
 
 # Instalaciones:
 
-Pandas para analisis 
+Pandas para analisis y Plotly para gráficos
 ```
 import pandas as pd
-```
-
-Plotly para gráficos
-```
 import plotly.express as px
 ```
 
@@ -54,6 +50,7 @@ Ver mas en: https://docs.google.com/spreadsheets/d/17vbJzKucjz-44uT-pCSyfmk7rANE
 # Link google slides
 Los analisis de resultados también lo puedes encontrar en pptx de google
 Ver mas en: https://docs.google.com/presentation/d/1d12_yyxoevgakewwIOBFqmfLUwUrixSq_dKVKkWkvWA/edit#slide=id.g1dcbfe6acde_0_51
+
 
 
 Made with a lot of 💕 by Sifrisky.
