@@ -3,7 +3,7 @@ Este repositorio esta hecho con la finalidad de presentar mis proyectos de Busin
 
 ## Actividad 1. Análisis descriptivo
 
-_La tarea se realizó con las herramientas de google colab para el desarrollo y anális de lso resultados a partir de una base de datos creada para el estudio. _
+_La tarea se realizó con las herramientas de google colab para el desarrollo y anális de lso resultados a partir de una base de datos creada para el estudio_
 
 # Objetivo de estudio: 
 
@@ -20,9 +20,6 @@ Campaña de anuncios para captación de potenciales clientes en linkedin, facebo
 
 - Prescriptivo: Basado en el modelo predictivo, definir, organizar y crear campañas más eficientes que potencien el branding multimedio.
 
-<--! # Preview
-
- ![](docs/screenshot.jpeg) !-->
 
 # Comenzamos 🚀
 
