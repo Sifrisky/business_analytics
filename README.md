@@ -48,9 +48,13 @@ Ver mas en: https://docs.google.com/spreadsheets/d/17vbJzKucjz-44uT-pCSyfmk7rANE
 
 
 # Link google slides
-Los analisis de resultados también lo puedes encontrar en pptx de google
+Los analisis de resultados también lo puedes encontrar en pptx de google.
 Ver mas en: https://docs.google.com/presentation/d/1d12_yyxoevgakewwIOBFqmfLUwUrixSq_dKVKkWkvWA/edit#slide=id.g1dcbfe6acde_0_51
 
+
+# Link Google Colab: 
+Acá puedes ver la tarea y código en el cuaderno.
+ver más en: https://colab.research.google.com/github/Sifrisky/business_analytics/blob/main/TareaCoder.ipynb
 
 
 Made with a lot of 💕 by Sifrisky.
