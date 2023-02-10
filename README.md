@@ -14,7 +14,7 @@ Campaña de anuncios para captación de potenciales clientes en linkedin, facebo
 
 - Descriptivo: Mostrar la información de la base de datos de Tata films en gráficos visuales sintetizados en los KPIS más relevantes.
 
--Diagnóstico: Implementación de looker studio  para tableros de control del departamento de Marketing.
+- Diagnóstico: Implementación de looker studio  para tableros de control del departamento de Marketing.
 
 - Predictivo: Modelo predictivo para mostrar insights relevantes para la comunicación y programación de contenido de la agencia y fomentar la toma de decisiones gerenciales.
 
