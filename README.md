@@ -1,1 +1,3 @@
-# business_analytics
+# business_analytics. 
+Este repositorio es para las....
+Actividad #1: Analisis descriptivo
