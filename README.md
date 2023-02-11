@@ -3,22 +3,7 @@ Este repositorio esta hecho con la finalidad de presentar mis proyectos de Busin
 
 ## Actividad 1. Análisis descriptivo
 
-_La tarea se realizó con las herramientas de google colab para el desarrollo y anális de lso resultados a partir de una base de datos creada para el estudio_
-
-# Objetivo de estudio: 
-
-Campaña de anuncios para captación de potenciales clientes en linkedin, facebook e instagram durante 3 meses.
-
-
-# Análisis:
-
-- Descriptivo: Mostrar la información de la base de datos de Tata films en gráficos visuales sintetizados en los KPIS más relevantes.
-
-- Diagnóstico: Implementación de looker studio  para tableros de control del departamento de Marketing.
-
-- Predictivo: Modelo predictivo para mostrar insights relevantes para la comunicación y programación de contenido de la agencia y fomentar la toma de decisiones gerenciales.
-
-- Prescriptivo: Basado en el modelo predictivo, definir, organizar y crear campañas más eficientes que potencien el branding multimedio.
+_La tarea se realizó con las herramientas de google colab para el desarrollo y anális de los resultados a partir de una base de datos creada para el estudio_
 
 
 # Comenzamos 🚀
@@ -28,10 +13,11 @@ Si eres Ceci, ya tienes los accesos y puedes verlo directamente :)
 
 # Herramientas: ⚒️
 
-- Google colab
-- Github : 'https://raw.githubusercontent.com/Sifrisky/business_analytics/main/data_tata.csv'
-- python
-- Excel, csv, gsheets
+- Google colab:  Acá puedes ver la tarea y código en el cuaderno.
+- Github: Repositorio del proyecto completo
+- python: Lenguaje para el análisis
+- Excel, csv, gsheets: data, Se preparo una data no real para realizar el estudio.
+- Google slide: Los analisis de resultados también lo puedes encontrar en pptx de google.
 
 # Instalaciones:
 
@@ -41,20 +27,13 @@ import pandas as pd
 import plotly.express as px
 ```
 
-# Link Google Sheets
-Se preparo una data no real para realizar el estudio.
+# Link Google Sheets: https://docs.google.com/spreadsheets/d/17vbJzKucjz-44uT-pCSyfmk7rANEtNAfMHkL4YEdyiQ/edit#gid=1461304237
 
-Ver mas en: https://docs.google.com/spreadsheets/d/17vbJzKucjz-44uT-pCSyfmk7rANEtNAfMHkL4YEdyiQ/edit#gid=1461304237
+# Link google slides: https://docs.google.com/presentation/d/1d12_yyxoevgakewwIOBFqmfLUwUrixSq_dKVKkWkvWA/edit#slide=id.g1dcbfe6acde_0_51
 
+# LINK CSV: 'https://raw.githubusercontent.com/Sifrisky/business_analytics/main/data_tata.csv'
 
-# Link google slides
-Los analisis de resultados también lo puedes encontrar en pptx de google.
-Ver mas en: https://docs.google.com/presentation/d/1d12_yyxoevgakewwIOBFqmfLUwUrixSq_dKVKkWkvWA/edit#slide=id.g1dcbfe6acde_0_51
-
-
-# Link Google Colab: 
-Acá puedes ver la tarea y código en el cuaderno.
-ver más en: https://colab.research.google.com/github/Sifrisky/business_analytics/blob/main/TareaCoder.ipynb
+# Link Google Colab: https://colab.research.google.com/github/Sifrisky/business_analytics/blob/main/TareaCoder.ipynb
 
 
 Made with a lot of 💕 by Sifrisky.
