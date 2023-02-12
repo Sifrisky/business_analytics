@@ -1,0 +1,1001 @@
+Month_Last_contact,used_discount,used_bogo,zone,zip_code,is_referral,channel,offer,conversion,services,social_utm,genre,age,history_purchase
+1,0,1,Urban,Paternal,1,Phone,Buy one get one,0,Films,Facebook,F,36,609.1
+3,0,1,Urban,Colegiales,0,Multichannel,No offer,0,Motion graphics,Linkedin,M,60,450.3
+4,1,0,Suburban,Parque Patricios,1,Phone,No offer,1,Films,Linkedin,Other,34,673.8
+10,1,1,Urban,Colegiales,1,Phone,Buy one get one,1,Films,Facebook,M,40,458.2
+9,0,1,Urban,Boedo,1,Multichannel,Discount,1,Motion graphics,Linkedin,M,46,566.5
+2,0,0,Suburban,Belgrano,1,Phone,Buy one get one,1,Photography,Instagram,M,59,637.0
+8,1,1,Suburban,Caballito,1,Multichannel,Buy one get one,0,Motion graphics,Facebook,Other,57,537.2
+8,0,1,Urban,La Boca,0,Phone,Buy one get one,0,Photography,Facebook,M,33,546.7
+8,1,0,Suburban,Caballito,1,Web,Discount,1,Motion graphics,Instagram,F,48,612.0
+7,1,0,Urban,Paternal,1,Phone,Discount,1,Photography,Linkedin,M,50,643.3
+6,1,1,Suburban,Boedo,0,Web,No offer,1,Motion graphics,Linkedin,M,56,400.2
+7,1,0,Urban,Caballito,0,Web,Discount,1,Motion graphics,Instagram,M,45,484.9
+6,1,1,Urban,Palermo,1,Phone,Discount,1,Motion graphics,Linkedin,Other,32,543.8
+9,1,1,Rural,Belgrano,1,Phone,Buy one get one,0,Motion graphics,Instagram,F,42,516.8
+8,1,1,Suburban,Paternal,1,Web,Discount,1,Motion graphics,Instagram,F,44,473.8
+7,0,1,Urban,Belgrano,0,Phone,Discount,0,Films,Linkedin,M,28,576.8
+10,0,0,Rural,Villa Urquiza,0,Phone,Buy one get one,0,Photography,Facebook,M,60,550.2
+2,0,1,Rural,Nuñez,0,Phone,Buy one get one,1,Photography,Facebook,F,51,530.9
+5,1,0,Suburban,Parque Patricios,0,Web,Discount,0,Motion graphics,Facebook,M,58,527.8
+2,0,1,Urban,Villa Urquiza,1,Multichannel,Discount,0,Photography,Facebook,M,60,495.5
+10,0,1,Urban,Recoleta,1,Web,Buy one get one,0,Motion graphics,Facebook,M,56,436.7
+2,0,0,Suburban,Villa Urquiza,1,Web,Discount,0,Films,Instagram,F,58,467.0
+6,1,0,Urban,Belgrano,0,Multichannel,Buy one get one,0,Films,Facebook,Other,55,579.9
+8,0,1,Suburban,Saavedra,0,Web,No offer,0,Photography,Instagram,M,46,522.8
+6,1,0,Rural,Parque Patricios,1,Phone,Buy one get one,0,Motion graphics,Facebook,M,30,499.6
+2,1,1,Rural,Caballito,0,Phone,No offer,1,Motion graphics,Linkedin,M,41,614.7
+9,0,1,Suburban,Villa Urquiza,0,Web,Buy one get one,1,Photography,Facebook,M,33,608.4
+5,1,0,Suburban,Saavedra,0,Phone,No offer,0,Films,Facebook,Other,47,465.3
+8,0,0,Suburban,Villa Urquiza,1,Phone,Buy one get one,1,Photography,Instagram,Other,41,485.0
+2,0,1,Suburban,Colegiales,0,Web,Discount,1,Films,Facebook,Other,35,530.6
+7,1,0,Rural,Boedo,0,Phone,Buy one get one,0,Motion graphics,Facebook,F,27,547.4
+5,1,1,Suburban,La Boca,0,Multichannel,Buy one get one,1,Motion graphics,Facebook,M,45,482.8
+4,1,1,Rural,Belgrano,0,Web,No offer,0,Films,Linkedin,M,36,492.7
+9,0,0,Urban,Recoleta,1,Phone,Buy one get one,0,Films,Facebook,M,30,529.7
+9,1,0,Suburban,Belgrano,0,Phone,Discount,1,Films,Linkedin,M,57,498.1
+10,1,0,Suburban,Caballito,0,Multichannel,No offer,0,Motion graphics,Instagram,F,32,484.1
+10,1,0,Suburban,Villa Urquiza,0,Web,Buy one get one,1,Motion graphics,Facebook,F,40,464.8
+1,0,0,Suburban,Boedo,0,Web,Buy one get one,0,Motion graphics,Facebook,Other,46,580.4
+8,1,1,Urban,La Boca,1,Multichannel,Buy one get one,0,Photography,Facebook,Other,44,442.6
+10,1,0,Urban,Palermo,1,Multichannel,Discount,0,Motion graphics,Instagram,M,45,510.3
+9,0,1,Suburban,Caballito,0,Web,Buy one get one,1,Motion graphics,Facebook,Other,33,457.4
+4,1,1,Urban,Nuñez,0,Phone,Buy one get one,1,Photography,Instagram,M,59,646.8
+3,0,0,Suburban,Saavedra,1,Multichannel,Discount,0,Photography,Linkedin,M,49,592.6
+9,0,1,Urban,Saavedra,0,Phone,Buy one get one,0,Films,Facebook,M,48,459.1
+10,0,1,Suburban,Belgrano,0,Multichannel,Buy one get one,1,Films,Instagram,F,42,613.7
+1,0,1,Suburban,Nuñez,0,Phone,Discount,0,Motion graphics,Facebook,Other,51,540.5
+7,1,1,Urban,Boedo,1,Web,Discount,1,Films,Facebook,M,28,508.9
+7,0,0,Suburban,Paternal,1,Web,Discount,0,Films,Linkedin,Other,25,642.6
+2,1,0,Urban,Saavedra,1,Multichannel,No offer,1,Motion graphics,Facebook,F,37,526.6
+6,0,0,Suburban,Nuñez,1,Web,Buy one get one,0,Photography,Instagram,Other,36,477.9
+4,0,0,Urban,Villa Urquiza,1,Phone,No offer,1,Photography,Linkedin,M,45,514.5
+2,0,0,Rural,Caballito,0,Phone,No offer,1,Motion graphics,Facebook,F,54,579.9
+7,1,1,Rural,Palermo,1,Phone,Buy one get one,1,Films,Facebook,M,32,535.6
+1,1,0,Urban,Belgrano,1,Multichannel,Buy one get one,1,Photography,Facebook,M,32,541.9
+6,0,0,Rural,Recoleta,0,Phone,No offer,1,Motion graphics,Facebook,M,44,483.7
+2,1,1,Urban,Parque Patricios,1,Web,Buy one get one,1,Photography,Instagram,Other,31,525.5
+9,1,0,Suburban,Colegiales,1,Web,No offer,0,Films,Instagram,F,60,611.3
+7,1,0,Suburban,Caballito,1,Web,No offer,1,Motion graphics,Instagram,Other,27,572.6
+3,0,1,Urban,Colegiales,0,Phone,Discount,1,Films,Linkedin,Other,38,676.4
+9,0,1,Suburban,Boedo,0,Phone,No offer,1,Photography,Facebook,Other,34,446.7
+7,1,0,Rural,Caballito,0,Phone,Buy one get one,1,Motion graphics,Facebook,M,33,549.8
+10,0,1,Rural,Recoleta,1,Web,Buy one get one,0,Films,Facebook,M,56,492.9
+9,1,0,Urban,Colegiales,0,Phone,Buy one get one,1,Motion graphics,Facebook,Other,59,447.4
+10,1,1,Rural,Parque Patricios,1,Phone,Buy one get one,0,Films,Facebook,F,34,457.7
+9,1,0,Urban,Colegiales,0,Phone,Discount,1,Films,Facebook,M,31,428.9
+1,1,0,Urban,Las Catitas,0,Phone,Buy one get one,0,Motion graphics,Facebook,M,35,492.8
+5,0,1,Rural,Villa Urquiza,0,Phone,No offer,0,Films,Linkedin,F,60,503.9
+9,1,1,Urban,Paternal,1,Multichannel,Buy one get one,0,Motion graphics,Facebook,M,31,500.6
+6,1,1,Suburban,Colegiales,1,Multichannel,No offer,1,Films,Instagram,F,52,450.5
+10,1,1,Suburban,Caballito,0,Multichannel,Buy one get one,1,Motion graphics,Facebook,F,57,503.5
+10,1,0,Suburban,Villa Urquiza,1,Multichannel,Buy one get one,0,Photography,Instagram,M,57,509.9
+10,1,1,Urban,Palermo,0,Multichannel,Buy one get one,0,Films,Instagram,F,46,478.2
+6,0,0,Suburban,Las Catitas,1,Web,Buy one get one,0,Motion graphics,Instagram,Other,47,497.3
+9,0,1,Suburban,Colegiales,0,Web,No offer,1,Motion graphics,Linkedin,F,56,551.7
+4,1,1,Urban,Belgrano,1,Web,No offer,0,Motion graphics,Facebook,M,54,475.7
+9,0,1,Urban,Nuñez,0,Phone,Buy one get one,1,Motion graphics,Facebook,F,47,609.8
+1,0,0,Urban,Saavedra,0,Multichannel,Buy one get one,0,Films,Facebook,M,43,561.5
+10,1,1,Urban,Paternal,1,Web,No offer,1,Motion graphics,Linkedin,M,53,468.5
+3,1,1,Urban,Paternal,1,Multichannel,Discount,1,Motion graphics,Instagram,Other,48,565.1
+10,1,0,Suburban,Villa Urquiza,0,Web,Discount,0,Photography,Linkedin,M,48,574.8
+5,1,1,Suburban,La Boca,0,Phone,Buy one get one,0,Films,Facebook,M,25,505.7
+1,1,1,Urban,Palermo,1,Phone,Buy one get one,1,Motion graphics,Facebook,F,56,466.2
+4,1,1,Rural,Villa Urquiza,1,Web,Buy one get one,1,Photography,Instagram,M,43,568.0
+6,0,1,Rural,Paternal,0,Web,Buy one get one,0,Photography,Facebook,M,41,574.1
+7,1,1,Rural,Belgrano,0,Web,Buy one get one,0,Motion graphics,Facebook,M,55,497.5
+7,1,0,Urban,Nuñez,1,Multichannel,Buy one get one,1,Motion graphics,Facebook,M,34,490.8
+10,0,0,Rural,Palermo,0,Phone,No offer,1,Motion graphics,Facebook,M,52,532.6
+5,0,1,Rural,Caballito,0,Phone,Buy one get one,1,Motion graphics,Instagram,M,58,612.2
+10,1,0,Suburban,Boedo,0,Web,Buy one get one,1,Photography,Facebook,M,41,599.9
+9,0,0,Suburban,Boedo,0,Phone,No offer,0,Films,Instagram,Other,37,512.6
+7,1,0,Suburban,Colegiales,1,Phone,Buy one get one,1,Films,Facebook,Other,36,490.1
+1,0,1,Suburban,Nuñez,1,Phone,Buy one get one,1,Motion graphics,Facebook,Other,28,470.7
+6,0,1,Suburban,Parque Patricios,0,Web,Buy one get one,0,Photography,Facebook,Other,58,415.4
+8,0,0,Suburban,Colegiales,1,Web,No offer,1,Motion graphics,Linkedin,Other,25,473.3
+6,1,0,Rural,Parque Patricios,1,Web,Buy one get one,1,Photography,Facebook,M,60,457.2
+4,1,1,Suburban,Las Catitas,1,Multichannel,Discount,1,Photography,Linkedin,Other,59,485.0
+4,0,0,Urban,Caballito,1,Multichannel,No offer,1,Motion graphics,Instagram,F,33,382.8
+3,1,1,Suburban,Boedo,0,Phone,Discount,0,Motion graphics,Linkedin,F,47,522.8
+4,1,0,Urban,Las Catitas,1,Multichannel,Discount,0,Motion graphics,Linkedin,M,40,542.9
+9,0,1,Rural,Saavedra,1,Phone,Buy one get one,1,Photography,Facebook,F,54,534.9
+4,1,1,Suburban,Caballito,1,Phone,Buy one get one,0,Motion graphics,Facebook,M,41,587.3
+1,0,0,Rural,Palermo,1,Web,No offer,0,Motion graphics,Instagram,F,31,466.2
+9,1,1,Suburban,Nuñez,0,Web,Buy one get one,0,Films,Facebook,Other,51,569.2
+2,1,0,Urban,Villa Urquiza,1,Multichannel,Buy one get one,0,Photography,Instagram,F,26,392.6
+10,1,1,Rural,Belgrano,0,Web,No offer,1,Photography,Instagram,M,36,645.2
+4,1,0,Suburban,Belgrano,1,Web,Discount,0,Films,Linkedin,M,59,450.7
+2,0,1,Suburban,Colegiales,0,Phone,Buy one get one,1,Motion graphics,Facebook,M,45,470.2
+1,0,0,Rural,Boedo,0,Phone,No offer,1,Films,Facebook,M,34,514.7
+3,0,0,Rural,Parque Patricios,0,Phone,Buy one get one,1,Films,Facebook,M,27,495.8
+8,0,1,Rural,Nuñez,0,Web,Buy one get one,1,Films,Facebook,M,42,578.2
+6,0,1,Rural,Paternal,1,Phone,Buy one get one,0,Motion graphics,Facebook,M,38,498.3
+1,1,1,Rural,Villa Urquiza,1,Phone,Buy one get one,1,Photography,Facebook,M,60,451.6
+10,0,1,Rural,Caballito,1,Web,No offer,1,Motion graphics,Linkedin,M,45,618.4
+6,1,0,Urban,La Boca,0,Multichannel,Discount,1,Photography,Linkedin,M,55,504.9
+4,1,1,Rural,Belgrano,0,Phone,No offer,1,Films,Instagram,F,37,589.7
+7,0,0,Rural,Parque Patricios,1,Phone,Buy one get one,1,Films,Facebook,F,37,499.3
+3,0,1,Suburban,Saavedra,1,Phone,Discount,1,Films,Facebook,Other,31,514.8
+2,0,0,Suburban,Las Catitas,0,Web,No offer,0,Films,Instagram,Other,25,573.3
+4,0,0,Urban,Las Catitas,1,Multichannel,No offer,0,Films,Instagram,Other,25,472.1
+9,0,1,Rural,La Boca,1,Web,No offer,0,Motion graphics,Instagram,F,26,529.7
+10,0,0,Urban,Parque Patricios,1,Phone,Buy one get one,1,Photography,Facebook,M,44,432.7
+4,1,0,Suburban,Belgrano,0,Web,No offer,1,Photography,Linkedin,M,60,360.0
+1,0,1,Rural,Boedo,0,Phone,No offer,1,Motion graphics,Instagram,F,39,522.4
+9,0,1,Rural,Parque Patricios,1,Phone,No offer,0,Photography,Facebook,M,26,561.4
+10,1,0,Suburban,Nuñez,1,Multichannel,Buy one get one,0,Films,Instagram,F,44,485.6
+5,0,0,Suburban,Boedo,0,Phone,No offer,1,Films,Instagram,F,27,512.4
+8,1,1,Suburban,Villa Urquiza,0,Phone,Buy one get one,0,Photography,Instagram,M,53,589.3
+7,0,0,Rural,Belgrano,0,Phone,No offer,0,Photography,Instagram,F,48,504.7
+10,0,0,Rural,Parque Patricios,1,Web,Buy one get one,1,Films,Facebook,M,52,558.4
+10,0,0,Suburban,Boedo,1,Phone,No offer,0,Photography,Instagram,Other,40,498.5
+4,1,1,Suburban,Belgrano,0,Web,No offer,0,Films,Facebook,Other,53,477.1
+8,0,1,Rural,Belgrano,1,Phone,No offer,1,Photography,Instagram,F,40,490.6
+4,1,0,Suburban,Nuñez,1,Web,Buy one get one,1,Films,Instagram,M,41,572.0
+6,0,1,Rural,Paternal,1,Web,No offer,0,Motion graphics,Linkedin,M,41,507.4
+9,1,0,Suburban,Recoleta,0,Web,Buy one get one,1,Photography,Facebook,F,55,516.2
+10,0,1,Suburban,Saavedra,0,Phone,Buy one get one,1,Photography,Facebook,M,44,531.9
+3,0,1,Urban,Nuñez,0,Multichannel,Buy one get one,1,Photography,Instagram,M,45,612.3
+3,0,0,Suburban,Villa Urquiza,0,Multichannel,Buy one get one,1,Photography,Instagram,M,48,415.1
+1,0,0,Rural,Saavedra,1,Web,Buy one get one,1,Motion graphics,Facebook,F,47,662.0
+10,1,0,Rural,Nuñez,1,Web,No offer,1,Motion graphics,Linkedin,M,26,388.1
+3,1,0,Suburban,Belgrano,0,Web,Buy one get one,0,Photography,Facebook,F,56,569.0
+10,1,0,Urban,Boedo,0,Multichannel,Discount,1,Films,Facebook,M,51,601.5
+8,1,0,Urban,Palermo,0,Web,Buy one get one,1,Motion graphics,Instagram,M,39,500.3
+1,0,0,Urban,Las Catitas,0,Multichannel,No offer,1,Motion graphics,Facebook,M,60,569.0
+5,1,0,Urban,Palermo,0,Phone,Discount,0,Films,Facebook,M,46,578.1
+3,0,0,Rural,Colegiales,1,Phone,No offer,1,Motion graphics,Facebook,M,27,544.4
+3,1,0,Rural,Boedo,1,Phone,No offer,0,Motion graphics,Linkedin,M,47,494.8
+10,0,0,Suburban,La Boca,0,Web,Buy one get one,1,Photography,Facebook,Other,29,462.7
+1,1,1,Suburban,Palermo,0,Web,Discount,1,Motion graphics,Linkedin,M,40,627.8
+7,1,0,Suburban,La Boca,0,Web,Buy one get one,1,Motion graphics,Instagram,F,53,596.0
+2,1,1,Urban,Paternal,1,Phone,Buy one get one,0,Photography,Instagram,M,58,480.0
+9,0,0,Rural,La Boca,1,Phone,Buy one get one,0,Photography,Instagram,F,26,593.7
+1,0,0,Urban,Boedo,0,Multichannel,Discount,0,Films,Instagram,M,56,653.6
+4,1,1,Urban,Parque Patricios,0,Multichannel,Buy one get one,1,Photography,Instagram,M,60,576.9
+8,0,1,Urban,Las Catitas,0,Multichannel,Buy one get one,1,Motion graphics,Instagram,M,28,423.7
+9,1,0,Urban,Nuñez,1,Phone,Buy one get one,1,Motion graphics,Facebook,Other,45,521.9
+3,0,1,Rural,Saavedra,1,Phone,No offer,1,Films,Linkedin,M,30,515.3
+3,0,0,Suburban,Villa Urquiza,0,Multichannel,No offer,1,Photography,Linkedin,F,54,525.7
+5,1,0,Rural,Caballito,1,Phone,Buy one get one,0,Motion graphics,Facebook,M,27,595.8
+9,0,0,Rural,Recoleta,1,Phone,No offer,0,Motion graphics,Instagram,F,48,540.3
+9,1,1,Suburban,Belgrano,1,Web,No offer,1,Motion graphics,Facebook,M,25,546.8
+9,0,0,Urban,Las Catitas,1,Multichannel,Buy one get one,0,Motion graphics,Facebook,M,57,536.4
+7,0,0,Rural,Belgrano,0,Phone,Buy one get one,1,Photography,Facebook,M,50,573.1
+7,0,1,Urban,Recoleta,1,Multichannel,Buy one get one,1,Motion graphics,Instagram,Other,35,465.3
+9,1,1,Rural,Saavedra,1,Phone,No offer,0,Motion graphics,Facebook,M,32,577.7
+8,1,1,Suburban,Recoleta,1,Web,No offer,1,Films,Instagram,F,44,547.4
+4,0,0,Rural,Colegiales,1,Phone,No offer,1,Films,Instagram,M,56,444.0
+9,1,0,Urban,Recoleta,0,Multichannel,Buy one get one,0,Photography,Facebook,Other,31,594.6
+10,1,0,Rural,Recoleta,1,Phone,No offer,0,Films,Instagram,F,59,417.7
+4,1,0,Urban,Parque Patricios,0,Multichannel,Buy one get one,0,Films,Facebook,F,41,490.3
+5,0,0,Urban,Palermo,1,Multichannel,Buy one get one,1,Motion graphics,Facebook,M,48,437.2
+8,0,0,Suburban,La Boca,0,Web,No offer,0,Photography,Instagram,Other,57,528.6
+8,0,1,Rural,Palermo,1,Phone,No offer,0,Motion graphics,Linkedin,F,55,499.4
+3,1,1,Suburban,Colegiales,1,Web,Discount,0,Films,Instagram,M,53,547.9
+7,1,1,Rural,Belgrano,1,Web,Buy one get one,1,Photography,Instagram,M,54,479.5
+4,1,0,Rural,Belgrano,1,Web,No offer,0,Films,Instagram,M,48,579.5
+7,1,0,Urban,Parque Patricios,1,Phone,No offer,1,Films,Instagram,Other,37,527.1
+7,1,0,Urban,Las Catitas,1,Web,Buy one get one,0,Films,Facebook,F,33,564.9
+9,1,0,Rural,Villa Urquiza,0,Web,Buy one get one,1,Photography,Instagram,F,45,480.8
+8,1,0,Rural,Recoleta,1,Web,Buy one get one,1,Films,Facebook,M,44,540.8
+7,1,0,Rural,Nuñez,1,Web,Buy one get one,0,Photography,Instagram,M,52,489.6
+2,1,1,Suburban,La Boca,0,Web,No offer,0,Motion graphics,Instagram,F,50,484.0
+10,0,0,Urban,Colegiales,1,Multichannel,Discount,1,Motion graphics,Linkedin,M,56,525.1
+1,0,1,Urban,Paternal,1,Multichannel,No offer,0,Films,Instagram,M,55,475.3
+8,0,1,Urban,La Boca,0,Multichannel,No offer,1,Photography,Facebook,M,47,527.8
+6,1,1,Suburban,Villa Urquiza,0,Web,No offer,0,Films,Instagram,M,43,648.0
+5,1,0,Urban,Recoleta,0,Multichannel,No offer,1,Films,Linkedin,M,29,476.1
+5,1,1,Suburban,Belgrano,0,Phone,Buy one get one,1,Photography,Facebook,Other,49,674.4
+4,1,0,Urban,Recoleta,1,Multichannel,Buy one get one,0,Photography,Facebook,M,51,503.9
+5,0,1,Rural,Nuñez,0,Phone,No offer,1,Photography,Linkedin,F,40,506.0
+10,1,0,Suburban,Colegiales,0,Multichannel,Buy one get one,0,Films,Facebook,F,39,473.6
+3,1,0,Rural,Belgrano,0,Web,Buy one get one,1,Photography,Facebook,M,51,517.0
+9,0,0,Urban,Saavedra,1,Multichannel,No offer,0,Films,Instagram,F,59,589.8
+10,1,0,Suburban,Villa Urquiza,0,Web,Buy one get one,1,Motion graphics,Instagram,F,38,537.0
+1,1,0,Suburban,Saavedra,1,Web,Buy one get one,1,Motion graphics,Facebook,F,29,530.8
+4,0,0,Urban,Recoleta,1,Web,Discount,1,Photography,Facebook,F,36,567.7
+6,0,0,Urban,Caballito,0,Phone,Discount,1,Motion graphics,Facebook,M,53,566.8
+7,1,1,Rural,Parque Patricios,1,Phone,No offer,0,Films,Instagram,M,45,595.0
+8,1,0,Suburban,Boedo,0,Phone,Buy one get one,1,Films,Facebook,M,39,506.9
+1,1,0,Rural,Boedo,0,Phone,No offer,1,Photography,Facebook,M,57,547.8
+1,0,1,Urban,Las Catitas,0,Web,No offer,0,Photography,Instagram,M,42,437.8
+5,0,0,Suburban,Colegiales,1,Web,Buy one get one,0,Films,Facebook,Other,48,581.9
+2,0,0,Suburban,Boedo,1,Web,Discount,0,Motion graphics,Instagram,F,58,510.1
+9,1,1,Rural,Caballito,0,Phone,Buy one get one,1,Motion graphics,Facebook,M,58,533.1
+10,0,0,Urban,Villa Urquiza,1,Multichannel,Buy one get one,1,Photography,Facebook,M,30,408.3
+8,1,1,Rural,Parque Patricios,0,Phone,No offer,0,Motion graphics,Instagram,F,51,484.7
+7,1,0,Urban,Paternal,0,Web,Buy one get one,1,Motion graphics,Instagram,F,45,488.7
+3,0,0,Suburban,Colegiales,1,Web,No offer,0,Films,Instagram,M,26,581.8
+9,0,1,Urban,Parque Patricios,1,Multichannel,Discount,0,Motion graphics,Linkedin,Other,28,490.7
+9,1,0,Urban,Villa Urquiza,1,Phone,Buy one get one,1,Photography,Facebook,F,59,467.3
+1,0,1,Urban,Las Catitas,0,Multichannel,Discount,0,Photography,Linkedin,Other,57,643.7
+9,0,1,Rural,Caballito,1,Phone,No offer,0,Motion graphics,Facebook,M,29,538.8
+6,1,1,Suburban,Colegiales,0,Phone,Discount,0,Motion graphics,Linkedin,F,52,534.5
+4,0,1,Urban,Nuñez,0,Web,No offer,1,Films,Instagram,F,30,486.9
+1,1,1,Urban,La Boca,0,Web,Discount,1,Motion graphics,Instagram,F,43,467.4
+10,0,1,Urban,Parque Patricios,0,Phone,Buy one get one,1,Motion graphics,Instagram,M,31,520.6
+6,0,0,Rural,Boedo,0,Web,No offer,1,Motion graphics,Linkedin,M,57,621.3
+6,0,1,Suburban,Parque Patricios,1,Multichannel,Buy one get one,1,Films,Instagram,M,54,540.7
+2,1,0,Suburban,Nuñez,1,Web,Discount,1,Photography,Linkedin,F,55,580.7
+3,0,0,Urban,La Boca,0,Multichannel,Discount,0,Motion graphics,Linkedin,F,27,485.5
+9,0,0,Urban,Palermo,1,Multichannel,Buy one get one,0,Motion graphics,Instagram,Other,32,543.2
+10,1,1,Rural,Palermo,0,Web,No offer,1,Motion graphics,Facebook,M,55,509.8
+5,0,0,Urban,Nuñez,1,Web,No offer,0,Photography,Facebook,F,52,379.9
+8,0,1,Suburban,Nuñez,0,Web,Buy one get one,0,Films,Instagram,M,53,584.8
+10,1,0,Rural,Belgrano,1,Phone,No offer,1,Motion graphics,Facebook,M,60,491.4
+8,1,0,Suburban,Colegiales,0,Multichannel,Buy one get one,1,Films,Instagram,M,37,572.4
+3,1,1,Suburban,Palermo,1,Web,Buy one get one,1,Motion graphics,Facebook,M,52,506.5
+6,0,1,Rural,Belgrano,0,Phone,No offer,1,Films,Linkedin,M,35,630.5
+8,1,1,Suburban,Colegiales,0,Phone,Buy one get one,0,Films,Instagram,F,26,389.4
+5,0,0,Rural,Palermo,1,Web,Buy one get one,1,Motion graphics,Instagram,M,31,425.4
+9,0,1,Urban,Villa Urquiza,0,Multichannel,Discount,1,Photography,Linkedin,Other,58,474.0
+10,0,1,Urban,Parque Patricios,0,Multichannel,Buy one get one,0,Motion graphics,Instagram,M,36,544.0
+3,0,1,Urban,Belgrano,1,Multichannel,Buy one get one,1,Films,Facebook,M,32,537.8
+3,0,1,Suburban,Belgrano,1,Web,Buy one get one,1,Photography,Facebook,M,47,632.0
+8,0,0,Urban,Palermo,1,Multichannel,Buy one get one,0,Films,Facebook,Other,52,505.4
+1,0,1,Suburban,Parque Patricios,1,Multichannel,No offer,1,Motion graphics,Instagram,F,50,433.2
+8,0,0,Urban,Colegiales,0,Multichannel,Buy one get one,0,Films,Instagram,Other,31,565.2
+1,0,1,Urban,Palermo,0,Multichannel,Discount,0,Films,Facebook,M,26,532.5
+5,0,0,Rural,Villa Urquiza,1,Phone,Buy one get one,0,Motion graphics,Facebook,F,53,513.6
+8,1,1,Suburban,Palermo,0,Web,Buy one get one,0,Motion graphics,Facebook,F,36,693.2
+6,0,0,Rural,Palermo,0,Web,Buy one get one,0,Films,Facebook,M,56,544.2
+10,1,1,Rural,La Boca,1,Phone,Buy one get one,0,Photography,Facebook,F,34,700.2
+8,1,0,Urban,Nuñez,1,Multichannel,No offer,1,Photography,Linkedin,M,49,545.3
+7,1,1,Suburban,Colegiales,0,Phone,Buy one get one,0,Films,Facebook,M,37,537.4
+5,0,1,Rural,Parque Patricios,1,Web,No offer,0,Motion graphics,Instagram,M,42,495.0
+7,1,0,Rural,Villa Urquiza,0,Phone,No offer,0,Photography,Instagram,M,45,484.8
+8,0,0,Urban,Palermo,0,Multichannel,No offer,0,Motion graphics,Instagram,M,56,589.3
+7,1,1,Rural,La Boca,0,Phone,No offer,1,Films,Instagram,M,60,558.4
+9,1,1,Rural,Recoleta,0,Phone,No offer,1,Motion graphics,Linkedin,F,32,592.6
+9,0,0,Suburban,Colegiales,1,Web,Buy one get one,0,Films,Instagram,F,58,482.2
+7,1,1,Urban,Villa Urquiza,0,Phone,Discount,0,Motion graphics,Linkedin,M,57,559.0
+2,1,0,Rural,Parque Patricios,0,Phone,Buy one get one,1,Photography,Facebook,M,57,598.6
+3,1,0,Urban,Las Catitas,1,Multichannel,Buy one get one,0,Photography,Facebook,Other,35,509.6
+7,1,1,Urban,Palermo,1,Web,No offer,1,Motion graphics,Facebook,F,31,655.4
+9,0,1,Suburban,Recoleta,1,Web,No offer,0,Films,Instagram,Other,42,547.2
+10,1,0,Urban,Villa Urquiza,1,Phone,No offer,1,Photography,Instagram,M,52,510.5
+2,0,1,Urban,Paternal,0,Multichannel,Buy one get one,1,Motion graphics,Facebook,Other,25,580.7
+7,1,1,Urban,Colegiales,1,Multichannel,Buy one get one,1,Films,Instagram,Other,38,550.1
+8,1,1,Rural,Parque Patricios,1,Web,Buy one get one,0,Motion graphics,Instagram,M,25,545.7
+8,0,1,Urban,Villa Urquiza,0,Phone,Buy one get one,0,Motion graphics,Facebook,M,49,607.3
+9,0,0,Rural,Parque Patricios,1,Web,Buy one get one,1,Films,Facebook,M,50,517.3
+8,0,0,Urban,Belgrano,1,Web,No offer,1,Films,Instagram,Other,59,510.0
+2,1,0,Rural,Boedo,1,Phone,No offer,0,Motion graphics,Linkedin,M,38,598.9
+5,1,0,Urban,La Boca,1,Phone,Discount,1,Photography,Instagram,F,33,647.4
+10,0,1,Urban,Caballito,0,Web,No offer,0,Motion graphics,Instagram,M,45,463.5
+3,1,0,Suburban,Caballito,1,Phone,No offer,1,Motion graphics,Linkedin,M,41,534.1
+4,0,1,Rural,Caballito,0,Phone,Buy one get one,0,Motion graphics,Instagram,M,60,455.5
+6,0,1,Rural,Caballito,0,Phone,No offer,1,Motion graphics,Instagram,F,42,576.5
+6,0,0,Urban,Boedo,0,Phone,Buy one get one,1,Photography,Facebook,M,44,504.9
+9,1,1,Rural,Boedo,1,Phone,No offer,0,Motion graphics,Linkedin,M,39,519.3
+7,1,0,Suburban,Saavedra,0,Phone,Discount,1,Motion graphics,Facebook,F,37,556.7
+1,1,1,Rural,Palermo,0,Phone,No offer,1,Films,Instagram,M,44,474.5
+10,1,0,Urban,Las Catitas,1,Multichannel,Discount,1,Motion graphics,Instagram,M,53,560.2
+7,0,0,Rural,Recoleta,0,Web,No offer,0,Photography,Instagram,M,53,394.3
+8,1,1,Urban,Saavedra,1,Multichannel,Buy one get one,1,Motion graphics,Facebook,M,28,547.7
+5,1,0,Suburban,Boedo,1,Multichannel,Discount,0,Films,Linkedin,F,37,556.5
+4,0,1,Rural,La Boca,0,Web,Buy one get one,1,Motion graphics,Facebook,M,28,480.7
+5,1,1,Suburban,Belgrano,1,Web,Discount,1,Photography,Linkedin,Other,45,377.0
+6,1,0,Urban,Belgrano,0,Multichannel,No offer,1,Photography,Facebook,M,29,435.0
+2,1,1,Urban,Colegiales,0,Phone,Buy one get one,1,Films,Facebook,M,43,455.5
+5,1,1,Rural,Paternal,1,Phone,Buy one get one,0,Motion graphics,Instagram,M,33,462.4
+10,0,1,Rural,La Boca,1,Phone,Buy one get one,1,Films,Instagram,M,25,390.2
+2,1,0,Rural,Caballito,1,Phone,No offer,1,Motion graphics,Facebook,F,50,525.3
+9,1,0,Suburban,Boedo,0,Phone,Buy one get one,0,Photography,Facebook,Other,44,527.8
+4,1,1,Suburban,Boedo,0,Web,Buy one get one,1,Photography,Facebook,M,60,539.5
+1,0,0,Rural,La Boca,0,Phone,Buy one get one,0,Photography,Facebook,M,30,513.8
+2,0,0,Suburban,Las Catitas,1,Phone,Discount,0,Motion graphics,Linkedin,F,47,558.3
+4,1,0,Suburban,Colegiales,1,Web,No offer,0,Films,Instagram,M,37,499.3
+1,0,1,Rural,Boedo,1,Phone,Buy one get one,1,Motion graphics,Facebook,M,57,562.0
+7,0,0,Rural,Parque Patricios,1,Web,Buy one get one,1,Films,Facebook,M,51,486.6
+1,0,1,Suburban,Colegiales,1,Web,Buy one get one,1,Films,Facebook,M,34,472.3
+10,0,1,Urban,Villa Urquiza,1,Web,Discount,1,Photography,Instagram,M,31,574.1
+5,0,1,Rural,Palermo,1,Phone,No offer,0,Motion graphics,Instagram,M,50,589.9
+7,0,1,Suburban,Las Catitas,1,Phone,Buy one get one,0,Motion graphics,Instagram,F,42,564.3
+4,1,1,Rural,Belgrano,1,Phone,Buy one get one,0,Films,Facebook,M,56,491.4
+3,0,0,Rural,Nuñez,0,Phone,No offer,1,Motion graphics,Facebook,M,44,600.1
+5,0,0,Rural,Parque Patricios,0,Web,Buy one get one,0,Photography,Facebook,M,37,529.6
+8,0,0,Urban,Villa Urquiza,1,Phone,No offer,0,Films,Facebook,Other,36,539.1
+5,0,0,Urban,Palermo,1,Multichannel,No offer,0,Motion graphics,Facebook,M,29,420.1
+6,1,1,Urban,Colegiales,1,Multichannel,Buy one get one,1,Films,Facebook,Other,25,506.7
+3,1,0,Urban,Parque Patricios,0,Multichannel,No offer,1,Films,Linkedin,M,27,485.7
+2,1,1,Rural,Villa Urquiza,0,Phone,Buy one get one,0,Photography,Facebook,M,53,542.6
+4,0,1,Suburban,Nuñez,1,Multichannel,Buy one get one,1,Films,Facebook,M,53,429.4
+3,1,0,Urban,Paternal,1,Web,Discount,1,Motion graphics,Facebook,M,36,503.5
+2,0,0,Suburban,Saavedra,0,Phone,Buy one get one,1,Photography,Instagram,Other,41,517.6
+3,1,1,Rural,Paternal,1,Phone,No offer,1,Motion graphics,Instagram,F,56,503.9
+4,0,0,Suburban,Caballito,0,Multichannel,Discount,1,Motion graphics,Linkedin,M,50,509.8
+3,0,1,Rural,Recoleta,1,Phone,Buy one get one,0,Motion graphics,Facebook,F,40,593.9
+1,1,0,Rural,Parque Patricios,0,Phone,No offer,1,Motion graphics,Linkedin,M,57,578.3
+3,0,1,Suburban,Las Catitas,1,Multichannel,Buy one get one,1,Films,Instagram,F,30,443.8
+7,1,1,Rural,Colegiales,1,Phone,No offer,1,Films,Instagram,M,55,489.3
+1,1,1,Suburban,Nuñez,1,Web,Buy one get one,0,Photography,Facebook,F,55,618.4
+6,0,1,Rural,Caballito,0,Phone,Buy one get one,1,Motion graphics,Facebook,F,55,543.3
+8,0,1,Urban,Caballito,1,Web,No offer,0,Motion graphics,Linkedin,F,38,499.8
+2,0,1,Suburban,Nuñez,0,Web,No offer,0,Films,Instagram,Other,35,471.2
+10,0,0,Suburban,Palermo,1,Multichannel,Buy one get one,1,Films,Facebook,Other,47,494.7
+4,1,0,Suburban,Boedo,0,Phone,Discount,1,Motion graphics,Facebook,Other,53,461.5
+5,0,1,Rural,Palermo,1,Phone,No offer,1,Motion graphics,Facebook,F,60,561.0
+2,1,0,Urban,Nuñez,1,Multichannel,Buy one get one,0,Motion graphics,Instagram,M,37,536.1
+6,0,0,Rural,Recoleta,1,Web,Buy one get one,0,Films,Facebook,M,52,498.3
+10,0,1,Urban,Las Catitas,1,Web,Discount,1,Motion graphics,Linkedin,F,51,600.7
+6,0,1,Suburban,Caballito,0,Phone,No offer,1,Motion graphics,Linkedin,F,52,467.1
+4,0,0,Urban,Saavedra,0,Phone,Discount,0,Films,Linkedin,M,25,568.7
+8,1,0,Suburban,Parque Patricios,0,Phone,No offer,0,Films,Instagram,M,60,542.2
+1,0,1,Rural,Boedo,0,Phone,No offer,1,Motion graphics,Facebook,M,29,526.4
+2,0,1,Urban,Boedo,0,Multichannel,Buy one get one,0,Photography,Facebook,Other,54,530.9
+1,0,0,Rural,Saavedra,1,Web,Buy one get one,0,Films,Facebook,F,31,402.4
+7,0,1,Rural,Villa Urquiza,0,Web,Buy one get one,0,Motion graphics,Facebook,M,53,532.5
+6,1,1,Suburban,Las Catitas,0,Multichannel,No offer,1,Films,Instagram,M,42,529.5
+4,1,0,Urban,Recoleta,1,Multichannel,Buy one get one,0,Films,Facebook,M,46,448.2
+8,0,0,Rural,Paternal,1,Phone,No offer,1,Motion graphics,Linkedin,M,43,556.5
+9,1,0,Suburban,Belgrano,0,Web,Discount,1,Motion graphics,Instagram,F,42,396.1
+9,0,1,Urban,Colegiales,0,Web,Discount,1,Films,Linkedin,Other,32,464.6
+1,1,0,Rural,Caballito,1,Phone,No offer,1,Motion graphics,Facebook,M,50,507.9
+5,1,0,Urban,Recoleta,0,Web,No offer,1,Motion graphics,Linkedin,F,48,447.3
+4,1,1,Suburban,Boedo,0,Phone,Buy one get one,0,Films,Instagram,Other,53,552.8
+1,1,0,Rural,Caballito,0,Phone,No offer,1,Motion graphics,Facebook,M,36,563.0
+7,1,1,Suburban,Boedo,1,Phone,Buy one get one,0,Motion graphics,Facebook,F,27,543.1
+4,1,0,Suburban,Boedo,0,Web,Discount,0,Films,Instagram,Other,38,473.9
+7,0,0,Urban,Las Catitas,1,Multichannel,Buy one get one,1,Films,Facebook,Other,48,540.4
+9,1,0,Suburban,La Boca,0,Multichannel,Buy one get one,1,Films,Facebook,Other,40,470.0
+2,0,1,Suburban,Palermo,1,Web,Discount,0,Motion graphics,Instagram,M,55,577.8
+8,1,0,Suburban,Paternal,0,Multichannel,Buy one get one,0,Photography,Instagram,M,43,518.6
+7,0,1,Rural,Caballito,1,Phone,No offer,0,Motion graphics,Facebook,M,51,627.2
+7,0,1,Suburban,Palermo,1,Web,Buy one get one,0,Films,Facebook,Other,54,573.4
+4,1,0,Suburban,Caballito,0,Multichannel,Discount,0,Motion graphics,Facebook,F,38,494.8
+2,1,1,Urban,Colegiales,1,Phone,Buy one get one,1,Motion graphics,Facebook,F,41,470.6
+9,1,0,Urban,Villa Urquiza,0,Web,No offer,1,Photography,Instagram,M,58,555.3
+3,1,1,Rural,Boedo,1,Phone,Buy one get one,1,Motion graphics,Facebook,M,36,560.5
+8,0,1,Urban,Paternal,0,Multichannel,Buy one get one,0,Photography,Facebook,M,34,517.7
+3,0,0,Rural,Parque Patricios,1,Web,No offer,0,Motion graphics,Facebook,F,56,367.0
+7,1,0,Urban,Parque Patricios,0,Multichannel,Discount,0,Films,Facebook,M,27,547.2
+5,1,1,Suburban,Nuñez,1,Web,No offer,0,Films,Instagram,M,37,510.1
+1,0,1,Suburban,Nuñez,1,Multichannel,Buy one get one,1,Motion graphics,Instagram,Other,48,483.0
+2,1,0,Suburban,Palermo,1,Web,Buy one get one,0,Motion graphics,Facebook,M,28,517.2
+10,1,1,Rural,Caballito,1,Web,No offer,0,Motion graphics,Instagram,M,27,483.2
+5,0,1,Suburban,Nuñez,0,Multichannel,No offer,0,Motion graphics,Linkedin,M,52,413.3
+1,0,0,Rural,Paternal,0,Web,Buy one get one,0,Motion graphics,Facebook,M,59,596.6
+4,1,1,Rural,La Boca,0,Phone,Buy one get one,1,Films,Instagram,M,46,500.3
+4,1,1,Suburban,Las Catitas,1,Web,Buy one get one,1,Motion graphics,Facebook,M,37,428.3
+9,0,1,Rural,Belgrano,0,Phone,Buy one get one,0,Photography,Facebook,M,59,410.0
+7,0,0,Urban,Parque Patricios,1,Multichannel,Buy one get one,0,Photography,Facebook,F,43,491.3
+10,1,0,Suburban,Parque Patricios,0,Web,Buy one get one,0,Motion graphics,Instagram,M,36,478.1
+1,0,1,Rural,Parque Patricios,1,Web,Buy one get one,0,Photography,Facebook,F,32,583.0
+1,0,0,Urban,Villa Urquiza,1,Phone,Discount,1,Photography,Linkedin,Other,44,497.0
+7,0,1,Urban,Las Catitas,1,Multichannel,Buy one get one,1,Photography,Instagram,Other,60,548.0
+2,1,1,Urban,Las Catitas,0,Multichannel,Buy one get one,0,Films,Facebook,M,49,469.9
+7,1,0,Rural,Belgrano,0,Phone,No offer,0,Films,Linkedin,M,45,615.3
+8,0,0,Urban,Boedo,0,Multichannel,Discount,0,Photography,Linkedin,F,30,510.8
+8,1,1,Rural,Caballito,1,Phone,Buy one get one,0,Motion graphics,Facebook,M,34,466.8
+6,0,1,Urban,Las Catitas,0,Phone,Discount,0,Motion graphics,Facebook,F,47,489.5
+5,0,0,Suburban,Belgrano,1,Web,Discount,1,Photography,Linkedin,F,31,619.8
+3,1,0,Suburban,Recoleta,0,Phone,Buy one get one,1,Films,Instagram,Other,54,576.8
+10,0,0,Rural,Colegiales,0,Web,Buy one get one,1,Films,Facebook,F,54,586.0
+8,0,1,Suburban,Saavedra,1,Web,No offer,0,Films,Instagram,F,38,599.5
+7,1,0,Suburban,Saavedra,0,Web,Discount,0,Motion graphics,Linkedin,Other,45,575.5
+9,1,1,Urban,Colegiales,1,Phone,No offer,0,Motion graphics,Facebook,F,50,577.4
+3,0,0,Rural,Saavedra,1,Phone,Buy one get one,1,Films,Instagram,M,44,596.4
+7,1,0,Suburban,Belgrano,1,Web,No offer,1,Films,Instagram,F,56,426.1
+7,0,0,Urban,Villa Urquiza,0,Multichannel,Discount,1,Motion graphics,Linkedin,F,35,532.7
+7,0,0,Urban,Colegiales,1,Multichannel,Buy one get one,1,Films,Facebook,M,40,446.6
+9,1,0,Urban,Boedo,1,Multichannel,Buy one get one,0,Motion graphics,Instagram,M,50,495.2
+1,0,0,Suburban,Villa Urquiza,1,Phone,Discount,0,Motion graphics,Instagram,M,54,571.4
+6,1,1,Suburban,Belgrano,1,Web,Buy one get one,1,Films,Facebook,M,27,476.8
+1,1,0,Rural,Saavedra,0,Phone,Buy one get one,0,Motion graphics,Facebook,M,38,516.3
+3,0,0,Rural,Palermo,0,Phone,Buy one get one,1,Motion graphics,Instagram,F,59,531.7
+1,0,1,Urban,Boedo,0,Multichannel,Buy one get one,1,Photography,Facebook,M,25,595.1
+1,0,1,Urban,Palermo,1,Web,Buy one get one,0,Motion graphics,Facebook,M,57,570.6
+10,1,1,Urban,Boedo,0,Web,Buy one get one,1,Motion graphics,Facebook,M,39,467.2
+3,1,0,Rural,Colegiales,0,Web,No offer,0,Films,Linkedin,M,37,660.9
+2,1,0,Urban,Paternal,0,Phone,Discount,1,Films,Linkedin,M,33,616.6
+9,0,1,Suburban,Belgrano,0,Web,No offer,0,Motion graphics,Facebook,M,53,448.9
+7,1,1,Suburban,Saavedra,0,Multichannel,Buy one get one,0,Films,Instagram,Other,47,603.7
+2,0,1,Suburban,Colegiales,1,Web,No offer,0,Films,Linkedin,F,49,496.4
+4,0,0,Rural,Paternal,0,Phone,Buy one get one,1,Motion graphics,Instagram,M,36,474.9
+5,0,0,Suburban,Saavedra,0,Multichannel,No offer,1,Films,Facebook,Other,36,603.4
+10,1,1,Suburban,Paternal,0,Multichannel,Buy one get one,0,Motion graphics,Instagram,F,56,396.4
+9,0,0,Urban,Villa Urquiza,0,Multichannel,Discount,0,Motion graphics,Instagram,F,40,658.1
+7,0,0,Rural,Recoleta,1,Phone,No offer,0,Films,Instagram,F,57,528.9
+8,1,0,Rural,Belgrano,0,Web,No offer,1,Photography,Instagram,F,40,511.6
+2,0,0,Urban,Villa Urquiza,0,Phone,Buy one get one,1,Photography,Facebook,F,33,561.6
+5,1,0,Suburban,Recoleta,1,Web,Buy one get one,1,Films,Instagram,M,53,531.4
+3,1,1,Rural,Caballito,1,Phone,No offer,1,Motion graphics,Facebook,M,52,577.7
+4,1,1,Rural,Colegiales,0,Phone,Buy one get one,0,Motion graphics,Facebook,M,38,466.1
+2,1,0,Rural,Caballito,0,Web,Buy one get one,0,Motion graphics,Facebook,M,44,599.3
+1,0,0,Suburban,Paternal,0,Web,Discount,1,Photography,Facebook,Other,44,538.0
+5,1,0,Suburban,Boedo,1,Web,Buy one get one,0,Motion graphics,Instagram,F,30,618.5
+4,1,1,Urban,Paternal,0,Phone,Buy one get one,0,Photography,Facebook,F,38,542.8
+8,1,1,Urban,Recoleta,1,Multichannel,Discount,0,Motion graphics,Instagram,M,25,499.7
+7,1,1,Suburban,Villa Urquiza,1,Phone,No offer,1,Photography,Linkedin,Other,43,572.0
+2,0,1,Suburban,Recoleta,1,Web,Buy one get one,1,Photography,Facebook,M,57,558.9
+7,0,1,Rural,Caballito,1,Web,Buy one get one,1,Motion graphics,Facebook,F,57,492.8
+10,1,0,Rural,Parque Patricios,1,Phone,Buy one get one,0,Motion graphics,Facebook,M,29,612.9
+3,0,1,Suburban,Saavedra,0,Web,Buy one get one,0,Films,Facebook,M,26,489.2
+10,0,1,Rural,Villa Urquiza,0,Web,Buy one get one,1,Photography,Instagram,M,25,553.5
+8,1,0,Suburban,Recoleta,0,Web,Discount,1,Films,Linkedin,F,28,512.4
+7,0,1,Suburban,Nuñez,1,Web,No offer,1,Motion graphics,Linkedin,M,32,492.1
+4,1,0,Urban,Las Catitas,1,Phone,Buy one get one,0,Motion graphics,Facebook,M,36,545.8
+8,0,1,Suburban,Nuñez,1,Phone,Buy one get one,1,Films,Instagram,Other,37,496.1
+6,0,1,Rural,Colegiales,0,Phone,No offer,1,Motion graphics,Instagram,M,53,488.1
+7,1,0,Suburban,Boedo,0,Web,Buy one get one,1,Films,Facebook,Other,40,520.9
+7,1,1,Suburban,Recoleta,1,Multichannel,Buy one get one,0,Films,Instagram,Other,38,494.5
+7,0,0,Urban,Las Catitas,1,Phone,Buy one get one,0,Motion graphics,Facebook,M,39,452.8
+1,1,1,Suburban,Nuñez,1,Multichannel,Buy one get one,0,Films,Instagram,Other,49,556.2
+7,0,1,Rural,Caballito,0,Phone,Buy one get one,0,Motion graphics,Facebook,M,50,409.0
+1,0,0,Rural,Parque Patricios,1,Web,No offer,1,Films,Instagram,M,32,488.2
+8,1,0,Suburban,La Boca,0,Multichannel,No offer,0,Motion graphics,Instagram,M,25,592.9
+10,0,1,Urban,Parque Patricios,0,Web,No offer,1,Films,Instagram,M,28,472.5
+1,0,1,Urban,Nuñez,1,Phone,No offer,1,Films,Facebook,M,29,394.9
+10,0,1,Suburban,Villa Urquiza,0,Web,No offer,1,Photography,Instagram,F,54,582.8
+1,0,1,Rural,Caballito,0,Phone,Buy one get one,1,Motion graphics,Facebook,F,29,517.6
+4,0,0,Urban,Recoleta,0,Web,Discount,0,Films,Linkedin,F,36,447.3
+3,1,0,Suburban,Paternal,1,Phone,Buy one get one,0,Films,Instagram,M,51,480.5
+2,1,0,Rural,Palermo,1,Web,No offer,0,Motion graphics,Linkedin,F,56,479.7
+4,1,1,Rural,Paternal,1,Web,No offer,0,Films,Linkedin,M,48,565.3
+9,0,1,Suburban,La Boca,1,Web,Buy one get one,1,Photography,Facebook,Other,51,353.9
+2,1,0,Rural,La Boca,1,Web,No offer,1,Films,Linkedin,M,34,497.0
+4,0,1,Urban,Las Catitas,1,Phone,Discount,1,Photography,Instagram,M,31,427.9
+1,0,0,Urban,La Boca,1,Multichannel,Buy one get one,1,Motion graphics,Facebook,M,46,566.8
+7,1,1,Rural,La Boca,0,Phone,Buy one get one,1,Photography,Facebook,M,25,585.2
+7,1,1,Urban,Nuñez,0,Multichannel,No offer,0,Motion graphics,Facebook,M,25,519.3
+7,0,0,Rural,Nuñez,1,Phone,No offer,0,Motion graphics,Instagram,F,30,632.6
+5,1,1,Rural,Colegiales,0,Web,Buy one get one,1,Motion graphics,Facebook,F,50,512.6
+4,0,0,Suburban,Belgrano,0,Multichannel,Buy one get one,1,Photography,Facebook,M,58,504.3
+1,1,0,Rural,Recoleta,0,Web,No offer,0,Photography,Linkedin,M,39,543.3
+5,0,1,Urban,Parque Patricios,0,Web,Buy one get one,1,Motion graphics,Facebook,Other,33,540.4
+9,1,0,Suburban,La Boca,1,Web,Discount,0,Motion graphics,Linkedin,Other,58,416.0
+7,1,1,Suburban,Boedo,1,Web,No offer,0,Films,Linkedin,M,40,463.7
+3,1,1,Suburban,Nuñez,1,Web,Discount,0,Photography,Facebook,Other,35,525.4
+1,0,1,Urban,Parque Patricios,0,Multichannel,Buy one get one,0,Films,Facebook,F,52,608.5
+9,1,1,Suburban,Saavedra,0,Phone,Buy one get one,1,Photography,Facebook,F,27,516.5
+9,1,0,Rural,Colegiales,1,Phone,No offer,0,Films,Instagram,M,41,507.5
+9,1,1,Urban,Recoleta,1,Phone,Buy one get one,0,Photography,Instagram,F,41,557.4
+2,0,0,Urban,Palermo,0,Phone,Discount,0,Films,Linkedin,Other,30,539.9
+3,1,1,Urban,Villa Urquiza,1,Multichannel,Buy one get one,0,Photography,Facebook,M,52,520.2
+4,0,0,Suburban,La Boca,1,Multichannel,Buy one get one,1,Motion graphics,Facebook,Other,30,479.2
+9,1,0,Urban,Villa Urquiza,1,Multichannel,No offer,1,Photography,Linkedin,Other,58,499.2
+3,0,0,Rural,Belgrano,1,Web,Buy one get one,1,Films,Facebook,M,36,464.9
+6,0,1,Urban,Palermo,0,Multichannel,Discount,1,Motion graphics,Facebook,M,46,526.0
+7,1,1,Urban,Nuñez,1,Phone,Buy one get one,0,Photography,Instagram,F,30,513.4
+8,1,1,Suburban,Colegiales,0,Multichannel,Discount,0,Films,Linkedin,M,43,545.8
+5,1,0,Rural,Caballito,0,Web,Buy one get one,1,Motion graphics,Facebook,M,56,515.4
+7,1,0,Urban,Las Catitas,0,Multichannel,Buy one get one,0,Films,Facebook,F,49,537.7
+5,1,0,Suburban,Nuñez,1,Multichannel,Buy one get one,1,Motion graphics,Instagram,Other,42,491.9
+1,0,0,Urban,Saavedra,0,Multichannel,No offer,0,Photography,Facebook,M,35,473.6
+10,0,1,Rural,Belgrano,1,Web,Buy one get one,1,Films,Facebook,M,53,507.7
+1,0,1,Urban,Saavedra,0,Web,No offer,1,Films,Linkedin,F,31,496.0
+1,0,1,Suburban,Recoleta,1,Web,Discount,1,Films,Linkedin,Other,47,591.8
+7,0,0,Rural,Boedo,1,Phone,No offer,0,Films,Instagram,F,27,515.7
+4,1,0,Urban,Boedo,1,Multichannel,Buy one get one,1,Motion graphics,Facebook,M,31,557.7
+1,1,1,Rural,Palermo,0,Web,Buy one get one,0,Motion graphics,Facebook,M,58,481.8
+10,0,0,Suburban,Boedo,1,Phone,No offer,1,Motion graphics,Instagram,F,43,533.1
+10,0,0,Rural,Palermo,0,Web,No offer,0,Motion graphics,Instagram,M,56,444.4
+8,0,1,Suburban,La Boca,0,Web,Buy one get one,1,Motion graphics,Instagram,Other,46,540.5
+4,1,0,Suburban,Colegiales,1,Web,Discount,1,Motion graphics,Instagram,M,60,591.9
+8,1,0,Rural,Paternal,1,Web,Buy one get one,1,Motion graphics,Instagram,M,58,385.7
+5,0,1,Suburban,Paternal,0,Web,No offer,1,Photography,Instagram,Other,50,614.6
+6,1,0,Suburban,Recoleta,0,Web,Discount,1,Films,Instagram,Other,47,524.8
+8,0,1,Rural,Recoleta,0,Web,No offer,0,Photography,Facebook,M,33,489.8
+2,0,0,Urban,Paternal,1,Multichannel,Buy one get one,1,Motion graphics,Facebook,Other,44,538.9
+10,0,0,Suburban,Palermo,0,Web,Buy one get one,1,Motion graphics,Facebook,Other,49,502.2
+4,1,0,Suburban,Colegiales,0,Web,Buy one get one,1,Films,Facebook,F,38,571.9
+2,0,1,Suburban,Nuñez,0,Web,Discount,1,Photography,Instagram,M,41,465.8
+10,0,1,Suburban,La Boca,1,Multichannel,Buy one get one,0,Films,Facebook,F,57,550.1
+10,1,1,Urban,Saavedra,1,Web,Buy one get one,1,Motion graphics,Facebook,F,52,498.0
+5,0,1,Rural,Boedo,1,Phone,Buy one get one,1,Photography,Instagram,F,41,551.7
+1,0,1,Urban,Parque Patricios,1,Web,Discount,1,Photography,Linkedin,M,37,519.2
+3,0,1,Suburban,Palermo,0,Phone,Buy one get one,0,Films,Instagram,Other,42,540.5
+4,0,0,Rural,Caballito,0,Phone,No offer,1,Motion graphics,Instagram,M,43,570.8
+5,1,1,Rural,Nuñez,0,Phone,No offer,1,Photography,Facebook,F,51,498.7
+6,1,1,Rural,Villa Urquiza,1,Web,Buy one get one,1,Photography,Facebook,M,45,535.6
+8,0,0,Urban,Recoleta,1,Multichannel,No offer,0,Films,Instagram,M,37,461.5
+9,0,0,Urban,Colegiales,0,Phone,Buy one get one,0,Films,Instagram,Other,56,563.2
+8,1,0,Urban,Colegiales,0,Web,Discount,0,Motion graphics,Instagram,M,46,425.2
+8,1,1,Suburban,Parque Patricios,0,Multichannel,No offer,1,Photography,Instagram,Other,45,440.0
+4,0,0,Urban,Colegiales,0,Phone,Buy one get one,0,Films,Facebook,Other,57,391.2
+5,0,1,Urban,Palermo,0,Multichannel,Buy one get one,0,Films,Facebook,M,32,581.7
+3,0,0,Urban,Palermo,1,Multichannel,Buy one get one,0,Motion graphics,Facebook,Other,51,533.0
+8,1,0,Urban,Palermo,1,Multichannel,Discount,0,Motion graphics,Instagram,M,30,460.8
+8,0,1,Suburban,Paternal,1,Phone,No offer,1,Motion graphics,Instagram,M,48,529.2
+9,1,1,Urban,La Boca,0,Multichannel,Discount,0,Films,Facebook,M,46,528.0
+8,1,0,Urban,Colegiales,1,Multichannel,Buy one get one,1,Films,Facebook,Other,29,608.3
+4,0,0,Urban,Palermo,1,Phone,Discount,0,Motion graphics,Linkedin,F,42,519.5
+4,1,0,Urban,Paternal,0,Web,Discount,1,Films,Instagram,M,28,522.8
+10,0,1,Suburban,Paternal,0,Web,No offer,0,Photography,Linkedin,M,26,536.9
+1,1,0,Rural,Recoleta,0,Phone,Buy one get one,1,Photography,Facebook,M,25,609.4
+3,1,0,Rural,Paternal,0,Phone,No offer,0,Films,Instagram,M,57,408.2
+6,0,1,Urban,Recoleta,1,Multichannel,Buy one get one,0,Photography,Instagram,F,48,540.1
+2,1,1,Suburban,Boedo,1,Multichannel,No offer,0,Motion graphics,Linkedin,Other,54,552.4
+7,1,1,Suburban,Colegiales,0,Web,Discount,0,Films,Instagram,F,56,582.9
+6,1,0,Rural,La Boca,0,Phone,No offer,0,Motion graphics,Linkedin,M,33,530.5
+5,1,0,Rural,Colegiales,0,Web,No offer,1,Motion graphics,Instagram,F,33,550.7
+7,1,1,Suburban,Nuñez,0,Phone,Discount,1,Motion graphics,Linkedin,Other,44,517.0
+5,0,0,Urban,Las Catitas,1,Web,Discount,1,Motion graphics,Instagram,Other,29,426.8
+5,0,1,Urban,Colegiales,1,Phone,Buy one get one,0,Films,Facebook,M,27,537.5
+2,0,0,Rural,Palermo,1,Web,No offer,0,Motion graphics,Instagram,M,60,498.4
+5,1,0,Urban,Belgrano,0,Multichannel,No offer,0,Films,Instagram,M,56,537.7
+6,1,1,Urban,Colegiales,0,Multichannel,Discount,1,Films,Facebook,M,29,551.0
+10,0,0,Suburban,Las Catitas,0,Phone,Discount,0,Films,Facebook,Other,41,366.9
+7,1,0,Urban,Palermo,0,Multichannel,Discount,1,Films,Instagram,M,47,589.4
+4,1,0,Urban,Paternal,0,Web,Discount,1,Motion graphics,Linkedin,F,32,466.4
+1,1,1,Suburban,Colegiales,0,Web,No offer,0,Motion graphics,Facebook,Other,28,429.0
+2,0,1,Suburban,La Boca,1,Multichannel,Discount,1,Motion graphics,Instagram,Other,29,531.5
+6,1,1,Suburban,Colegiales,1,Multichannel,Buy one get one,1,Films,Facebook,F,36,513.9
+1,1,0,Urban,Palermo,1,Multichannel,Discount,0,Films,Linkedin,F,58,536.5
+9,1,1,Suburban,Paternal,1,Multichannel,Buy one get one,1,Films,Instagram,F,45,516.1
+10,0,0,Suburban,Parque Patricios,1,Web,No offer,0,Films,Linkedin,M,43,583.2
+2,0,0,Urban,Las Catitas,0,Multichannel,Buy one get one,1,Films,Facebook,M,45,458.5
+9,0,0,Urban,Paternal,0,Web,No offer,0,Motion graphics,Facebook,F,54,458.1
+4,0,1,Urban,Nuñez,0,Web,Discount,1,Films,Linkedin,M,26,492.0
+2,0,1,Suburban,Nuñez,1,Multichannel,Buy one get one,1,Motion graphics,Instagram,M,38,430.1
+3,0,1,Urban,Las Catitas,1,Multichannel,Buy one get one,1,Films,Facebook,F,39,536.0
+7,0,1,Urban,Colegiales,0,Phone,Buy one get one,0,Motion graphics,Facebook,M,46,488.9
+7,0,1,Rural,Villa Urquiza,0,Web,No offer,0,Photography,Facebook,M,56,589.9
+2,0,0,Rural,Parque Patricios,1,Phone,Buy one get one,1,Films,Instagram,M,33,503.7
+4,1,0,Rural,Paternal,1,Web,Buy one get one,1,Motion graphics,Instagram,F,27,470.2
+9,0,0,Urban,Parque Patricios,1,Multichannel,Buy one get one,1,Photography,Facebook,F,44,467.7
+7,1,0,Suburban,Parque Patricios,1,Web,Buy one get one,0,Photography,Facebook,Other,53,477.7
+6,0,1,Rural,Nuñez,0,Phone,Buy one get one,1,Motion graphics,Facebook,M,31,531.9
+9,0,1,Rural,Palermo,0,Web,No offer,0,Motion graphics,Instagram,M,36,464.0
+2,0,1,Urban,Las Catitas,0,Phone,Buy one get one,0,Photography,Facebook,M,31,563.4
+4,0,1,Suburban,Las Catitas,0,Web,No offer,1,Motion graphics,Facebook,M,40,450.4
+6,0,1,Urban,La Boca,1,Multichannel,No offer,1,Motion graphics,Instagram,M,60,448.3
+4,0,0,Suburban,Las Catitas,0,Multichannel,No offer,1,Films,Linkedin,F,34,508.2
+9,1,1,Urban,Palermo,1,Multichannel,No offer,1,Films,Linkedin,Other,57,489.9
+10,1,1,Suburban,Belgrano,0,Web,Buy one get one,0,Photography,Facebook,F,52,533.9
+8,1,0,Suburban,Recoleta,0,Phone,No offer,1,Films,Instagram,F,31,619.2
+6,1,1,Suburban,Nuñez,0,Phone,Buy one get one,1,Films,Facebook,F,28,487.2
+3,1,1,Suburban,Belgrano,1,Multichannel,No offer,0,Motion graphics,Instagram,F,32,661.8
+1,1,0,Rural,Caballito,1,Web,No offer,0,Motion graphics,Linkedin,F,41,482.7
+4,1,0,Urban,Las Catitas,1,Web,No offer,0,Films,Facebook,F,31,511.2
+1,0,0,Suburban,Las Catitas,1,Phone,No offer,0,Motion graphics,Linkedin,F,35,464.0
+8,1,0,Suburban,Boedo,1,Phone,Discount,1,Films,Instagram,Other,29,392.1
+2,1,1,Rural,Villa Urquiza,1,Web,Buy one get one,0,Photography,Facebook,M,44,495.4
+1,0,1,Suburban,Belgrano,0,Phone,Buy one get one,0,Motion graphics,Facebook,M,60,477.8
+9,1,0,Urban,Recoleta,1,Phone,Discount,0,Films,Instagram,M,38,593.5
+9,0,1,Rural,Boedo,0,Phone,Buy one get one,0,Motion graphics,Facebook,F,27,664.0
+10,0,1,Rural,Recoleta,1,Web,No offer,0,Films,Linkedin,M,56,480.5
+7,0,1,Suburban,Boedo,1,Web,Discount,0,Motion graphics,Linkedin,Other,26,521.3
+6,0,0,Urban,Belgrano,1,Web,No offer,0,Films,Instagram,F,43,565.0
+5,0,1,Rural,Villa Urquiza,0,Phone,Buy one get one,0,Motion graphics,Facebook,M,31,617.5
+1,1,0,Suburban,La Boca,0,Web,Discount,0,Motion graphics,Linkedin,F,59,564.5
+9,1,1,Rural,Recoleta,0,Phone,No offer,1,Motion graphics,Instagram,M,34,569.1
+6,0,1,Urban,Villa Urquiza,0,Multichannel,Buy one get one,1,Photography,Facebook,F,53,477.3
+9,0,1,Urban,Colegiales,1,Multichannel,No offer,1,Films,Facebook,F,40,551.2
+3,0,0,Suburban,Villa Urquiza,1,Phone,No offer,0,Photography,Linkedin,M,45,532.4
+1,1,0,Urban,Parque Patricios,0,Phone,No offer,0,Photography,Facebook,F,49,615.5
+6,0,0,Rural,Parque Patricios,1,Web,No offer,0,Motion graphics,Facebook,M,59,527.8
+4,0,0,Suburban,Palermo,1,Web,Buy one get one,0,Motion graphics,Facebook,M,38,550.6
+8,0,1,Urban,Recoleta,1,Phone,Buy one get one,0,Photography,Facebook,Other,36,457.6
+7,1,0,Rural,Recoleta,0,Phone,No offer,0,Photography,Instagram,F,35,511.6
+7,0,1,Rural,Villa Urquiza,1,Phone,No offer,0,Photography,Facebook,M,25,486.5
+9,1,1,Urban,Belgrano,1,Web,No offer,1,Photography,Linkedin,M,38,476.4
+5,0,0,Suburban,Saavedra,0,Web,Buy one get one,1,Films,Facebook,Other,51,636.1
+8,1,0,Rural,Villa Urquiza,1,Phone,Buy one get one,0,Films,Facebook,M,38,555.8
+4,0,0,Rural,Villa Urquiza,0,Web,Buy one get one,1,Motion graphics,Instagram,M,52,488.1
+1,1,1,Urban,Boedo,0,Multichannel,Buy one get one,1,Photography,Instagram,M,27,519.4
+9,0,1,Urban,Las Catitas,1,Multichannel,Buy one get one,1,Motion graphics,Facebook,Other,35,533.4
+1,0,1,Urban,Nuñez,0,Phone,Discount,1,Films,Instagram,M,35,419.5
+1,1,0,Rural,Belgrano,0,Phone,Buy one get one,0,Photography,Facebook,M,47,430.6
+7,1,1,Suburban,Caballito,1,Phone,No offer,1,Motion graphics,Facebook,Other,56,468.2
+7,1,1,Urban,Belgrano,0,Phone,Buy one get one,0,Photography,Facebook,F,51,399.5
+6,1,1,Urban,Colegiales,1,Web,Buy one get one,1,Films,Instagram,F,38,423.3
+4,0,1,Rural,Parque Patricios,1,Phone,No offer,1,Films,Linkedin,M,29,545.1
+7,0,1,Suburban,Colegiales,0,Web,Discount,0,Films,Instagram,F,30,569.0
+5,1,1,Suburban,Parque Patricios,0,Web,Buy one get one,1,Motion graphics,Facebook,F,60,555.6
+4,0,1,Rural,Villa Urquiza,1,Phone,No offer,0,Motion graphics,Instagram,M,34,549.5
+8,1,1,Rural,Nuñez,0,Phone,No offer,1,Films,Instagram,F,26,482.4
+9,0,1,Urban,Saavedra,1,Phone,No offer,0,Films,Facebook,M,49,529.3
+6,1,1,Rural,Caballito,0,Phone,Buy one get one,1,Motion graphics,Facebook,M,38,462.5
+7,1,0,Rural,Parque Patricios,1,Phone,No offer,0,Films,Instagram,F,33,410.3
+1,1,0,Suburban,Colegiales,1,Web,Buy one get one,1,Motion graphics,Facebook,Other,39,586.8
+2,0,0,Suburban,Boedo,0,Multichannel,Discount,0,Photography,Linkedin,F,51,480.2
+9,1,0,Urban,Colegiales,1,Multichannel,No offer,0,Films,Instagram,Other,57,530.9
+9,0,0,Urban,Saavedra,0,Web,Buy one get one,0,Films,Facebook,F,27,469.9
+10,0,0,Suburban,Parque Patricios,0,Web,Buy one get one,1,Films,Instagram,M,26,482.6
+4,1,1,Suburban,Saavedra,1,Web,Discount,1,Films,Linkedin,Other,39,652.9
+4,0,0,Rural,Colegiales,1,Phone,Buy one get one,1,Films,Facebook,M,59,429.0
+9,0,1,Urban,Las Catitas,0,Phone,Buy one get one,0,Motion graphics,Instagram,F,46,659.7
+1,0,0,Suburban,Nuñez,1,Multichannel,Discount,0,Motion graphics,Linkedin,F,35,490.9
+10,1,1,Urban,Villa Urquiza,0,Web,Buy one get one,0,Photography,Facebook,M,49,466.3
+8,1,1,Urban,Belgrano,1,Web,Discount,1,Photography,Facebook,M,33,516.3
+6,1,0,Urban,Belgrano,0,Multichannel,No offer,1,Motion graphics,Facebook,Other,35,566.3
+7,0,1,Rural,Nuñez,0,Phone,Buy one get one,0,Motion graphics,Facebook,M,55,565.0
+5,1,0,Suburban,Boedo,0,Phone,Discount,1,Films,Linkedin,M,52,535.1
+9,1,0,Urban,Villa Urquiza,1,Multichannel,Buy one get one,0,Photography,Facebook,M,32,479.2
+7,1,0,Urban,Villa Urquiza,0,Multichannel,No offer,1,Films,Instagram,F,54,566.4
+6,1,1,Rural,Colegiales,0,Phone,No offer,1,Motion graphics,Instagram,F,54,613.7
+9,0,0,Urban,Caballito,0,Multichannel,No offer,1,Motion graphics,Facebook,M,55,450.8
+10,1,1,Rural,Caballito,0,Phone,No offer,0,Motion graphics,Instagram,F,28,509.4
+5,0,0,Rural,Belgrano,0,Phone,No offer,0,Photography,Instagram,F,35,553.4
+1,1,0,Suburban,Nuñez,0,Phone,No offer,1,Photography,Instagram,M,50,449.9
+4,0,1,Urban,Paternal,0,Phone,Buy one get one,1,Motion graphics,Instagram,M,43,562.9
+9,1,1,Urban,Parque Patricios,1,Multichannel,Buy one get one,1,Motion graphics,Facebook,M,32,437.5
+5,0,0,Rural,Boedo,0,Phone,No offer,1,Motion graphics,Linkedin,M,53,571.7
+6,0,0,Urban,Parque Patricios,1,Phone,No offer,0,Photography,Instagram,Other,36,496.5
+2,0,1,Rural,Parque Patricios,0,Web,No offer,0,Films,Facebook,M,45,464.9
+9,0,1,Rural,Saavedra,1,Phone,No offer,1,Films,Instagram,M,55,493.9
+8,0,1,Rural,Saavedra,0,Phone,Buy one get one,0,Photography,Facebook,M,42,589.3
+10,0,1,Urban,Paternal,1,Web,Discount,0,Photography,Linkedin,M,41,499.6
+7,1,0,Urban,Colegiales,0,Web,Buy one get one,1,Films,Instagram,F,27,562.5
+1,1,0,Urban,La Boca,1,Phone,Buy one get one,0,Photography,Instagram,M,56,502.4
+4,1,1,Urban,Boedo,0,Multichannel,No offer,0,Motion graphics,Instagram,M,58,481.3
+10,0,0,Rural,Villa Urquiza,0,Phone,No offer,0,Photography,Instagram,M,31,449.2
+3,0,0,Suburban,Villa Urquiza,0,Phone,Buy one get one,0,Photography,Facebook,F,45,517.7
+4,1,0,Urban,Colegiales,1,Multichannel,No offer,0,Films,Linkedin,M,60,468.2
+8,1,0,Rural,Boedo,0,Phone,No offer,1,Films,Facebook,M,43,539.5
+4,0,1,Urban,Boedo,0,Web,No offer,1,Motion graphics,Facebook,Other,60,486.6
+9,1,1,Rural,Palermo,0,Phone,Buy one get one,1,Films,Instagram,M,26,482.6
+8,1,0,Urban,Palermo,0,Phone,Discount,0,Films,Linkedin,F,43,532.8
+8,0,1,Suburban,Nuñez,0,Web,Buy one get one,0,Photography,Facebook,Other,45,482.3
+4,1,1,Rural,Belgrano,0,Web,No offer,0,Photography,Facebook,M,31,495.2
+9,0,1,Urban,Villa Urquiza,1,Multichannel,No offer,1,Films,Instagram,M,38,610.9
+9,1,1,Suburban,Belgrano,1,Web,Buy one get one,1,Motion graphics,Instagram,M,41,593.9
+8,0,0,Rural,Boedo,0,Phone,Buy one get one,0,Motion graphics,Facebook,M,53,654.1
+2,0,0,Rural,Boedo,1,Web,Buy one get one,0,Films,Facebook,M,46,662.2
+6,1,1,Suburban,Caballito,1,Web,Buy one get one,1,Motion graphics,Instagram,M,44,517.6
+6,1,0,Rural,Belgrano,0,Web,No offer,0,Photography,Linkedin,M,29,535.6
+5,0,1,Urban,Colegiales,1,Web,Buy one get one,0,Motion graphics,Facebook,M,48,556.3
+8,0,0,Rural,Colegiales,1,Web,Buy one get one,0,Films,Instagram,M,35,607.5
+1,1,1,Suburban,Belgrano,1,Web,Buy one get one,1,Photography,Instagram,Other,46,629.2
+2,0,0,Rural,Parque Patricios,1,Phone,Buy one get one,0,Films,Facebook,M,58,502.1
+2,1,0,Urban,Saavedra,0,Multichannel,Buy one get one,0,Films,Instagram,F,50,494.6
+3,1,0,Rural,Boedo,1,Phone,Buy one get one,0,Motion graphics,Instagram,F,43,506.3
+3,1,0,Urban,Palermo,1,Multichannel,No offer,1,Motion graphics,Facebook,F,29,418.5
+8,1,0,Suburban,Paternal,0,Web,Buy one get one,0,Photography,Facebook,F,60,542.2
+9,1,1,Rural,Caballito,0,Web,Buy one get one,0,Motion graphics,Facebook,F,54,492.4
+4,0,0,Suburban,Boedo,1,Phone,No offer,1,Motion graphics,Instagram,F,45,496.3
+5,1,0,Urban,Belgrano,0,Multichannel,Buy one get one,0,Motion graphics,Facebook,F,32,637.7
+1,1,1,Suburban,Belgrano,1,Web,Discount,0,Motion graphics,Instagram,M,60,526.2
+3,0,0,Urban,Colegiales,0,Multichannel,Buy one get one,1,Motion graphics,Facebook,M,26,557.1
+5,1,0,Rural,Paternal,1,Phone,Buy one get one,1,Motion graphics,Instagram,F,50,567.8
+3,0,1,Urban,Boedo,1,Web,Discount,1,Films,Linkedin,M,47,569.4
+1,1,1,Urban,Caballito,0,Multichannel,Buy one get one,0,Motion graphics,Facebook,F,41,576.1
+3,1,0,Suburban,Nuñez,0,Web,Discount,0,Films,Instagram,M,53,520.0
+9,0,1,Rural,Palermo,0,Web,Buy one get one,1,Films,Facebook,M,28,603.9
+5,0,0,Urban,Paternal,1,Multichannel,Buy one get one,1,Motion graphics,Instagram,F,32,644.3
+2,1,0,Rural,Caballito,0,Web,No offer,1,Motion graphics,Facebook,M,52,546.9
+8,0,1,Urban,Boedo,0,Phone,Buy one get one,1,Motion graphics,Facebook,M,32,580.8
+4,0,0,Rural,Saavedra,1,Web,No offer,0,Photography,Instagram,F,43,536.2
+4,1,0,Rural,Colegiales,0,Web,Buy one get one,0,Films,Facebook,F,49,476.3
+1,1,0,Rural,Belgrano,0,Phone,No offer,0,Photography,Facebook,F,49,569.1
+2,1,0,Urban,Boedo,0,Multichannel,No offer,0,Photography,Linkedin,M,50,438.5
+3,1,1,Rural,Saavedra,1,Phone,Buy one get one,0,Motion graphics,Facebook,F,31,545.4
+8,0,0,Urban,La Boca,0,Multichannel,No offer,1,Motion graphics,Facebook,Other,51,564.8
+10,0,0,Suburban,Las Catitas,1,Multichannel,Discount,1,Motion graphics,Facebook,M,37,446.2
+4,0,1,Urban,Las Catitas,0,Web,Buy one get one,0,Photography,Instagram,M,41,484.9
+9,0,1,Urban,Villa Urquiza,0,Web,Buy one get one,1,Photography,Facebook,M,44,588.6
+2,1,1,Rural,Villa Urquiza,0,Web,No offer,1,Films,Facebook,M,34,484.3
+8,0,0,Rural,Belgrano,0,Phone,Buy one get one,0,Motion graphics,Facebook,M,50,537.1
+7,0,1,Rural,Nuñez,1,Phone,Buy one get one,0,Films,Facebook,F,33,509.6
+3,1,0,Suburban,Recoleta,0,Multichannel,No offer,1,Films,Facebook,M,51,480.8
+8,1,1,Urban,Villa Urquiza,0,Multichannel,Buy one get one,0,Motion graphics,Instagram,M,38,511.1
+5,0,0,Rural,Nuñez,1,Web,No offer,1,Photography,Instagram,M,36,527.6
+6,0,0,Rural,Villa Urquiza,1,Phone,Buy one get one,1,Photography,Facebook,M,32,520.9
+4,1,0,Urban,La Boca,1,Multichannel,No offer,1,Photography,Linkedin,Other,45,509.2
+4,1,0,Suburban,La Boca,0,Multichannel,No offer,1,Films,Linkedin,M,33,598.4
+6,0,0,Suburban,Nuñez,1,Phone,Discount,0,Motion graphics,Instagram,M,35,484.3
+7,0,1,Suburban,La Boca,1,Multichannel,Discount,0,Motion graphics,Linkedin,Other,41,680.1
+2,1,0,Urban,Palermo,1,Phone,No offer,1,Motion graphics,Linkedin,Other,47,425.8
+6,0,1,Urban,Belgrano,0,Multichannel,Buy one get one,1,Films,Facebook,Other,41,383.2
+5,0,1,Rural,La Boca,0,Phone,Buy one get one,0,Motion graphics,Instagram,F,37,556.3
+8,0,1,Urban,Saavedra,0,Phone,No offer,0,Photography,Linkedin,Other,57,496.1
+4,0,0,Rural,Parque Patricios,1,Web,No offer,0,Photography,Linkedin,M,39,674.7
+1,1,0,Suburban,Villa Urquiza,0,Web,Buy one get one,1,Photography,Facebook,F,59,424.7
+2,1,0,Suburban,Nuñez,0,Phone,Buy one get one,1,Photography,Instagram,M,45,563.9
+7,1,1,Rural,Parque Patricios,1,Phone,Buy one get one,1,Films,Instagram,M,26,478.9
+7,0,0,Rural,Paternal,1,Phone,No offer,0,Photography,Instagram,M,28,505.8
+2,1,0,Rural,Parque Patricios,0,Phone,No offer,0,Films,Instagram,M,32,467.5
+8,1,1,Suburban,Paternal,0,Web,Buy one get one,1,Films,Instagram,M,43,590.0
+1,1,0,Urban,Boedo,0,Multichannel,Buy one get one,1,Motion graphics,Facebook,M,30,474.6
+8,1,0,Urban,Las Catitas,1,Phone,Buy one get one,0,Motion graphics,Facebook,Other,42,568.6
+5,1,1,Rural,Saavedra,1,Phone,Buy one get one,0,Motion graphics,Instagram,M,36,532.5
+3,1,0,Suburban,Nuñez,1,Multichannel,Discount,0,Films,Linkedin,Other,56,550.5
+2,1,1,Urban,Caballito,0,Multichannel,Discount,0,Motion graphics,Facebook,F,35,487.0
+4,1,0,Rural,Recoleta,1,Phone,Buy one get one,0,Films,Facebook,M,59,546.3
+6,0,0,Urban,Saavedra,0,Web,Discount,1,Photography,Linkedin,F,36,466.6
+2,1,1,Suburban,Boedo,0,Web,Buy one get one,1,Motion graphics,Instagram,F,35,501.9
+10,0,1,Rural,Villa Urquiza,0,Phone,Buy one get one,1,Photography,Facebook,M,54,504.1
+6,0,1,Rural,Nuñez,0,Phone,No offer,1,Photography,Instagram,M,55,475.5
+8,0,1,Rural,Parque Patricios,1,Phone,Buy one get one,0,Photography,Instagram,M,40,496.6
+2,0,1,Suburban,Belgrano,0,Web,Buy one get one,1,Motion graphics,Instagram,M,53,551.7
+9,0,0,Urban,Paternal,0,Multichannel,Buy one get one,0,Motion graphics,Facebook,M,41,469.8
+6,1,0,Suburban,Paternal,1,Web,Discount,0,Motion graphics,Linkedin,F,28,460.0
+6,0,1,Rural,Belgrano,1,Web,No offer,1,Photography,Instagram,M,59,532.3
+6,1,1,Rural,Caballito,1,Phone,Buy one get one,1,Motion graphics,Facebook,M,50,439.4
+9,1,1,Urban,Villa Urquiza,0,Phone,Buy one get one,1,Motion graphics,Facebook,Other,59,591.7
+7,0,0,Urban,Caballito,1,Phone,Buy one get one,0,Motion graphics,Facebook,M,48,534.7
+8,0,1,Urban,La Boca,0,Multichannel,Discount,0,Motion graphics,Facebook,M,47,630.7
+1,0,0,Rural,Villa Urquiza,1,Phone,No offer,0,Photography,Instagram,M,60,543.1
+8,0,0,Urban,Parque Patricios,0,Phone,Discount,0,Films,Linkedin,M,49,568.2
+9,1,1,Urban,Recoleta,1,Phone,Discount,0,Photography,Linkedin,M,27,528.4
+9,0,0,Suburban,Saavedra,0,Multichannel,Buy one get one,0,Films,Facebook,F,60,604.9
+2,1,0,Rural,La Boca,0,Phone,Buy one get one,0,Films,Instagram,F,39,492.8
+3,1,1,Urban,Paternal,1,Multichannel,Discount,1,Motion graphics,Facebook,Other,59,507.3
+2,1,1,Urban,Recoleta,0,Multichannel,No offer,1,Films,Facebook,M,38,540.8
+2,1,1,Suburban,La Boca,0,Web,Buy one get one,1,Films,Facebook,Other,41,551.4
+1,0,1,Suburban,Palermo,1,Web,No offer,1,Motion graphics,Facebook,M,27,585.6
+2,1,0,Urban,Palermo,0,Web,Buy one get one,1,Motion graphics,Facebook,M,25,546.3
+2,0,1,Rural,Paternal,0,Phone,No offer,0,Motion graphics,Linkedin,M,32,563.0
+7,0,1,Suburban,Belgrano,0,Multichannel,No offer,1,Photography,Instagram,Other,28,474.2
+2,0,0,Rural,Belgrano,0,Web,No offer,1,Films,Facebook,M,50,549.0
+10,1,1,Urban,Colegiales,1,Phone,Buy one get one,0,Motion graphics,Facebook,Other,44,585.6
+9,1,1,Urban,Las Catitas,0,Phone,No offer,1,Motion graphics,Instagram,M,42,558.3
+9,1,0,Urban,Las Catitas,1,Multichannel,Buy one get one,1,Photography,Facebook,Other,32,478.5
+1,1,1,Urban,Saavedra,1,Multichannel,Discount,1,Films,Linkedin,M,39,597.6
+4,0,0,Suburban,Caballito,1,Web,Discount,1,Motion graphics,Instagram,F,28,494.7
+3,1,0,Rural,Parque Patricios,1,Phone,Buy one get one,0,Motion graphics,Facebook,M,27,437.6
+1,1,1,Rural,Parque Patricios,1,Phone,Buy one get one,0,Motion graphics,Facebook,M,33,602.6
+4,0,1,Rural,Nuñez,0,Web,No offer,0,Films,Linkedin,M,26,452.6
+2,1,1,Rural,Recoleta,0,Phone,No offer,1,Motion graphics,Instagram,M,37,470.2
+6,1,0,Rural,Caballito,0,Phone,Buy one get one,0,Motion graphics,Facebook,M,26,552.6
+7,0,1,Rural,Villa Urquiza,1,Phone,No offer,1,Photography,Instagram,M,29,409.5
+4,0,1,Suburban,Paternal,1,Web,Buy one get one,1,Films,Instagram,M,52,461.5
+8,0,0,Urban,Villa Urquiza,1,Web,No offer,1,Photography,Instagram,M,33,577.2
+10,1,1,Rural,Nuñez,0,Phone,No offer,1,Motion graphics,Facebook,M,51,557.8
+4,0,1,Urban,Nuñez,1,Phone,Discount,1,Films,Linkedin,F,48,551.8
+10,0,1,Rural,Palermo,1,Web,No offer,0,Motion graphics,Facebook,M,40,539.7
+5,0,1,Suburban,Paternal,0,Multichannel,Buy one get one,0,Films,Facebook,F,43,486.7
+3,0,1,Suburban,Colegiales,1,Multichannel,No offer,1,Motion graphics,Linkedin,M,36,545.3
+1,0,1,Rural,Parque Patricios,0,Phone,No offer,0,Films,Instagram,M,27,595.4
+2,1,0,Rural,Parque Patricios,1,Phone,Buy one get one,0,Films,Instagram,F,55,452.9
+5,1,1,Urban,Palermo,1,Multichannel,Buy one get one,0,Films,Facebook,F,45,582.9
+3,1,1,Rural,Villa Urquiza,0,Phone,Buy one get one,0,Photography,Facebook,M,51,526.0
+2,1,1,Suburban,Recoleta,1,Multichannel,Discount,0,Films,Facebook,Other,36,530.6
+4,1,0,Urban,Palermo,1,Multichannel,Discount,0,Motion graphics,Linkedin,F,25,594.2
+5,1,1,Rural,Belgrano,0,Phone,No offer,0,Motion graphics,Linkedin,M,48,597.6
+2,1,1,Rural,Caballito,0,Phone,No offer,1,Motion graphics,Instagram,F,37,588.2
+10,1,0,Suburban,La Boca,1,Web,Discount,1,Motion graphics,Facebook,F,38,573.1
+2,0,1,Urban,Colegiales,1,Web,Buy one get one,0,Motion graphics,Instagram,M,40,483.5
+3,0,1,Suburban,Nuñez,0,Multichannel,No offer,1,Films,Instagram,F,52,455.4
+3,1,1,Urban,Paternal,1,Phone,Buy one get one,1,Photography,Instagram,Other,47,633.5
+5,1,1,Rural,Belgrano,1,Phone,No offer,1,Motion graphics,Instagram,M,25,519.1
+3,1,0,Suburban,Las Catitas,1,Multichannel,No offer,1,Motion graphics,Facebook,Other,56,514.0
+4,1,0,Urban,Villa Urquiza,0,Phone,Discount,1,Photography,Instagram,F,38,511.3
+10,0,0,Suburban,Caballito,0,Web,Buy one get one,0,Motion graphics,Facebook,M,59,542.3
+8,1,1,Rural,Parque Patricios,1,Phone,No offer,1,Photography,Instagram,M,40,515.8
+2,1,1,Suburban,Caballito,1,Multichannel,Buy one get one,0,Motion graphics,Instagram,F,60,614.9
+8,1,0,Suburban,Colegiales,0,Multichannel,Buy one get one,0,Films,Facebook,F,26,532.0
+4,1,1,Urban,Caballito,0,Phone,Discount,1,Motion graphics,Instagram,M,35,579.3
+3,1,0,Rural,Recoleta,1,Web,Buy one get one,1,Photography,Facebook,M,56,526.6
+9,0,1,Suburban,Las Catitas,0,Multichannel,Buy one get one,1,Photography,Instagram,M,25,572.5
+3,1,0,Urban,Las Catitas,0,Multichannel,No offer,1,Films,Facebook,Other,50,438.6
+9,1,0,Suburban,Belgrano,0,Multichannel,No offer,0,Photography,Facebook,M,45,464.0
+5,1,0,Urban,Villa Urquiza,1,Phone,Buy one get one,1,Motion graphics,Facebook,Other,43,492.1
+10,0,0,Urban,Boedo,0,Phone,No offer,1,Films,Facebook,F,40,482.8
+5,1,1,Rural,Caballito,0,Phone,No offer,0,Motion graphics,Linkedin,M,59,499.3
+7,1,0,Suburban,La Boca,0,Web,Buy one get one,1,Photography,Facebook,M,32,602.9
+7,1,1,Urban,Colegiales,0,Phone,Discount,0,Films,Linkedin,Other,59,492.4
+5,1,1,Rural,Paternal,0,Web,Buy one get one,0,Motion graphics,Instagram,M,47,441.5
+8,0,0,Rural,Parque Patricios,0,Phone,Buy one get one,0,Photography,Facebook,F,33,553.9
+10,1,1,Rural,La Boca,0,Phone,Buy one get one,1,Motion graphics,Facebook,F,42,477.2
+8,1,1,Suburban,Recoleta,1,Web,No offer,1,Motion graphics,Facebook,M,58,551.1
+5,1,1,Rural,Paternal,0,Phone,No offer,0,Photography,Instagram,M,49,529.3
+9,1,0,Suburban,Belgrano,0,Multichannel,Discount,1,Photography,Instagram,F,32,467.8
+2,1,1,Urban,Saavedra,0,Multichannel,No offer,0,Motion graphics,Linkedin,F,48,585.3
+2,0,1,Rural,Belgrano,0,Phone,No offer,0,Photography,Instagram,F,48,605.1
+2,0,0,Suburban,Las Catitas,1,Phone,Discount,0,Motion graphics,Linkedin,M,57,479.3
+1,1,0,Suburban,La Boca,0,Phone,Buy one get one,0,Motion graphics,Facebook,M,31,570.9
+4,1,0,Rural,Paternal,1,Web,Buy one get one,1,Motion graphics,Facebook,M,34,435.3
+6,1,1,Suburban,Nuñez,0,Phone,Buy one get one,0,Motion graphics,Facebook,F,51,533.0
+9,1,1,Urban,Parque Patricios,1,Web,No offer,1,Motion graphics,Instagram,Other,25,514.3
+7,1,0,Suburban,Paternal,1,Web,Buy one get one,0,Photography,Instagram,M,38,526.8
+8,0,1,Suburban,Saavedra,0,Web,Discount,0,Motion graphics,Linkedin,Other,45,488.8
+9,1,1,Rural,Recoleta,1,Phone,No offer,0,Photography,Facebook,M,32,483.9
+8,1,1,Suburban,Belgrano,0,Phone,No offer,1,Films,Instagram,Other,28,647.0
+8,1,0,Urban,Recoleta,0,Multichannel,Buy one get one,1,Films,Facebook,Other,50,494.1
+8,0,1,Rural,Palermo,1,Phone,Buy one get one,1,Films,Facebook,F,48,475.5
+1,1,0,Urban,Villa Urquiza,0,Web,Discount,0,Photography,Instagram,M,56,526.1
+5,0,0,Suburban,Las Catitas,0,Phone,No offer,1,Films,Instagram,M,52,477.3
+5,1,0,Urban,Boedo,1,Multichannel,Buy one get one,1,Motion graphics,Facebook,M,30,543.1
+3,0,0,Rural,Villa Urquiza,0,Phone,No offer,0,Films,Linkedin,F,28,514.2
+7,1,0,Suburban,Palermo,1,Phone,Buy one get one,1,Films,Facebook,Other,25,595.4
+8,1,1,Urban,Saavedra,0,Multichannel,No offer,1,Films,Facebook,Other,25,621.2
+9,0,1,Rural,Colegiales,1,Phone,No offer,1,Films,Facebook,M,28,418.7
+2,0,0,Urban,Recoleta,1,Multichannel,Buy one get one,0,Photography,Facebook,M,43,584.9
+6,1,1,Rural,Belgrano,0,Web,No offer,1,Photography,Instagram,M,38,568.2
+8,1,0,Rural,Colegiales,0,Phone,Buy one get one,1,Films,Facebook,M,49,480.5
+8,0,0,Rural,Palermo,0,Phone,Buy one get one,0,Films,Facebook,F,54,550.8
+8,1,1,Suburban,Recoleta,0,Phone,Discount,0,Films,Instagram,M,30,625.1
+7,0,0,Urban,Saavedra,1,Web,Discount,0,Photography,Linkedin,M,33,546.0
+2,1,1,Suburban,Palermo,0,Phone,Buy one get one,1,Motion graphics,Facebook,Other,36,553.3
+10,1,1,Urban,Nuñez,1,Web,Buy one get one,1,Photography,Instagram,F,45,603.8
+1,1,1,Suburban,Colegiales,0,Web,Buy one get one,1,Films,Facebook,M,47,582.4
+9,1,1,Rural,Palermo,1,Phone,Buy one get one,0,Motion graphics,Facebook,M,38,426.2
+8,0,0,Urban,Caballito,0,Multichannel,Discount,0,Motion graphics,Instagram,Other,52,519.5
+5,0,0,Urban,Palermo,0,Multichannel,No offer,1,Films,Instagram,M,47,492.2
+5,0,0,Suburban,Boedo,1,Phone,No offer,1,Motion graphics,Instagram,M,52,490.1
+1,0,0,Urban,Boedo,0,Multichannel,Buy one get one,1,Photography,Instagram,M,26,512.7
+2,1,1,Suburban,Belgrano,0,Web,Buy one get one,1,Photography,Facebook,M,30,528.0
+1,0,1,Rural,La Boca,0,Web,Buy one get one,0,Motion graphics,Facebook,M,39,530.1
+9,0,0,Urban,Paternal,1,Web,No offer,0,Films,Instagram,M,48,549.6
+9,1,0,Urban,Parque Patricios,1,Multichannel,Discount,1,Photography,Facebook,F,42,453.6
+4,0,1,Rural,Villa Urquiza,1,Phone,Buy one get one,0,Motion graphics,Facebook,F,33,553.7
+5,1,0,Suburban,Recoleta,1,Multichannel,Buy one get one,0,Photography,Facebook,F,43,415.3
+7,1,0,Suburban,Nuñez,1,Phone,Buy one get one,0,Films,Facebook,M,56,603.1
+2,1,1,Rural,Colegiales,0,Phone,Buy one get one,0,Films,Facebook,M,30,443.4
+8,0,0,Rural,Villa Urquiza,0,Phone,No offer,1,Photography,Instagram,F,32,458.7
+7,0,0,Rural,Recoleta,1,Phone,No offer,0,Films,Instagram,F,43,544.6
+3,0,1,Rural,Villa Urquiza,1,Phone,No offer,0,Photography,Linkedin,F,36,552.5
+8,0,1,Urban,La Boca,1,Web,No offer,0,Photography,Linkedin,F,30,588.0
+7,1,1,Rural,La Boca,0,Phone,No offer,1,Motion graphics,Linkedin,M,31,468.6
+8,1,1,Urban,Boedo,0,Phone,Buy one get one,0,Motion graphics,Facebook,Other,27,517.5
+10,0,1,Urban,Saavedra,1,Phone,Buy one get one,1,Photography,Facebook,F,38,564.3
+7,1,1,Urban,Colegiales,1,Phone,Discount,1,Films,Facebook,F,46,431.5
+8,1,0,Rural,Villa Urquiza,1,Phone,Buy one get one,1,Photography,Facebook,M,43,469.6
+10,1,1,Rural,Parque Patricios,0,Phone,Buy one get one,1,Motion graphics,Facebook,F,38,651.6
+9,1,1,Rural,Boedo,0,Web,Buy one get one,1,Motion graphics,Instagram,M,52,446.6
+1,1,1,Suburban,Paternal,0,Web,No offer,1,Motion graphics,Linkedin,Other,29,603.6
+3,1,0,Suburban,Palermo,0,Web,Discount,1,Films,Linkedin,F,51,538.8
+2,0,0,Suburban,Villa Urquiza,1,Multichannel,No offer,1,Photography,Instagram,M,59,494.7
+5,1,1,Suburban,Colegiales,0,Phone,Buy one get one,0,Motion graphics,Facebook,F,53,421.8
+6,0,0,Rural,La Boca,1,Phone,Buy one get one,0,Motion graphics,Instagram,F,57,534.3
+4,0,1,Rural,Parque Patricios,1,Phone,No offer,0,Motion graphics,Instagram,F,39,512.6
+10,1,0,Suburban,Belgrano,1,Phone,Buy one get one,1,Photography,Facebook,Other,57,555.2
+9,1,0,Urban,Las Catitas,0,Multichannel,Buy one get one,1,Films,Instagram,Other,57,502.7
+6,0,0,Rural,Recoleta,0,Web,Buy one get one,0,Films,Facebook,F,52,481.2
+2,0,1,Urban,Las Catitas,0,Phone,Discount,1,Films,Linkedin,M,43,569.7
+2,1,0,Urban,Caballito,0,Multichannel,No offer,0,Motion graphics,Facebook,M,54,611.1
+1,1,1,Urban,Palermo,1,Multichannel,Buy one get one,0,Motion graphics,Facebook,M,30,450.7
+6,1,0,Urban,Parque Patricios,1,Multichannel,Buy one get one,0,Motion graphics,Facebook,Other,28,521.9
+8,1,0,Rural,Caballito,1,Phone,Buy one get one,1,Motion graphics,Instagram,M,45,523.0
+9,0,1,Urban,Boedo,1,Web,Buy one get one,0,Motion graphics,Instagram,M,43,593.5
+8,0,0,Rural,Villa Urquiza,1,Phone,No offer,0,Motion graphics,Linkedin,M,46,523.2
+3,0,1,Rural,Boedo,1,Phone,No offer,1,Motion graphics,Linkedin,M,58,575.2
+9,0,1,Rural,Villa Urquiza,0,Phone,Buy one get one,0,Photography,Facebook,F,58,597.3
+4,1,1,Rural,Villa Urquiza,1,Phone,Buy one get one,0,Films,Facebook,M,38,511.5
+1,1,0,Suburban,Nuñez,1,Web,No offer,0,Photography,Facebook,F,25,633.3
+5,0,1,Urban,Colegiales,0,Multichannel,Buy one get one,1,Motion graphics,Instagram,F,33,555.3
+3,1,1,Rural,Paternal,1,Phone,Buy one get one,1,Films,Facebook,M,28,624.1
+2,0,0,Rural,Colegiales,0,Phone,Buy one get one,0,Motion graphics,Instagram,M,51,529.1
+8,1,1,Urban,Palermo,0,Multichannel,Discount,0,Films,Instagram,M,48,571.4
+4,0,1,Rural,Paternal,0,Web,Buy one get one,0,Motion graphics,Facebook,M,37,514.0
+10,1,0,Urban,Las Catitas,1,Multichannel,No offer,0,Motion graphics,Instagram,M,27,514.0
+8,0,0,Urban,Colegiales,1,Phone,Buy one get one,1,Motion graphics,Instagram,F,53,492.3
+5,1,0,Rural,Palermo,1,Phone,No offer,0,Motion graphics,Instagram,M,25,535.0
+5,1,1,Urban,Villa Urquiza,0,Multichannel,Buy one get one,0,Films,Facebook,M,29,554.0
+9,0,0,Suburban,Recoleta,1,Phone,Buy one get one,1,Films,Instagram,F,60,559.8
+5,0,0,Rural,Palermo,1,Phone,No offer,1,Motion graphics,Linkedin,F,33,596.6
+8,1,0,Suburban,Boedo,0,Multichannel,Buy one get one,0,Photography,Facebook,Other,29,433.4
+5,1,1,Suburban,Saavedra,0,Web,Discount,0,Photography,Facebook,F,60,528.9
+1,0,0,Urban,Saavedra,1,Web,Discount,0,Films,Linkedin,M,51,608.5
+3,1,1,Urban,Saavedra,0,Multichannel,Buy one get one,0,Films,Facebook,F,47,570.2
+3,1,0,Urban,Recoleta,0,Web,Buy one get one,0,Motion graphics,Instagram,M,56,511.1
+5,0,0,Urban,Caballito,0,Web,Discount,1,Motion graphics,Instagram,Other,30,490.1
+2,0,1,Urban,Palermo,1,Phone,Discount,1,Motion graphics,Facebook,F,47,551.7
+2,1,1,Suburban,Caballito,1,Multichannel,No offer,1,Motion graphics,Instagram,Other,49,459.5
+1,0,0,Suburban,La Boca,0,Web,Buy one get one,0,Motion graphics,Instagram,M,57,572.4
+6,0,1,Rural,Paternal,0,Phone,No offer,1,Photography,Facebook,M,56,427.9
+6,1,0,Rural,Villa Urquiza,0,Phone,Buy one get one,0,Films,Facebook,M,38,520.7
+4,1,0,Rural,Colegiales,1,Web,Buy one get one,1,Films,Facebook,F,29,484.3
+8,0,1,Urban,La Boca,0,Web,No offer,1,Films,Instagram,Other,57,431.4
+4,1,1,Suburban,Nuñez,1,Multichannel,Discount,0,Motion graphics,Linkedin,M,49,547.9
+8,0,1,Suburban,Boedo,0,Phone,Buy one get one,1,Films,Instagram,F,42,484.6
+6,1,1,Suburban,Parque Patricios,1,Multichannel,No offer,0,Films,Facebook,Other,56,550.6
+4,1,0,Suburban,Caballito,0,Multichannel,Discount,0,Motion graphics,Linkedin,M,39,521.6
+9,0,0,Rural,Belgrano,1,Phone,No offer,1,Photography,Instagram,M,32,514.6
+9,1,0,Urban,Caballito,0,Multichannel,No offer,0,Motion graphics,Facebook,M,47,562.0
+2,0,0,Urban,Caballito,1,Phone,Buy one get one,0,Motion graphics,Instagram,M,39,510.3
+10,0,1,Suburban,Saavedra,0,Phone,Buy one get one,0,Films,Instagram,F,33,447.4
+7,0,1,Urban,La Boca,0,Web,Buy one get one,0,Motion graphics,Facebook,F,37,557.6
+6,0,0,Rural,Caballito,1,Phone,Buy one get one,1,Motion graphics,Facebook,M,26,494.9
+6,0,1,Rural,Caballito,1,Phone,No offer,1,Motion graphics,Instagram,F,29,535.0
+7,0,0,Suburban,Colegiales,0,Phone,Discount,1,Films,Facebook,M,42,579.8
+10,0,0,Suburban,Palermo,0,Multichannel,Discount,0,Films,Instagram,Other,38,521.3
+1,1,1,Suburban,Colegiales,1,Web,Discount,0,Motion graphics,Instagram,M,36,519.3
+5,1,0,Rural,Saavedra,1,Web,No offer,1,Motion graphics,Instagram,F,56,591.0
+7,1,1,Rural,Saavedra,0,Phone,Buy one get one,0,Films,Facebook,M,49,538.7
+3,1,1,Suburban,Colegiales,1,Phone,Discount,0,Films,Linkedin,Other,31,484.2
+5,1,0,Rural,Villa Urquiza,0,Phone,Buy one get one,0,Films,Instagram,F,36,519.2
+8,0,0,Urban,Belgrano,1,Multichannel,Buy one get one,0,Photography,Facebook,Other,42,519.7
+10,0,0,Suburban,Paternal,0,Web,Discount,0,Photography,Linkedin,Other,34,503.7
+9,1,1,Rural,Caballito,1,Web,Buy one get one,0,Motion graphics,Facebook,F,57,602.4
+2,0,1,Rural,Saavedra,1,Phone,No offer,1,Photography,Instagram,F,28,455.9
+1,0,0,Urban,Parque Patricios,0,Multichannel,No offer,1,Motion graphics,Linkedin,M,55,687.5
+3,1,1,Urban,Palermo,1,Web,No offer,0,Motion graphics,Linkedin,M,45,495.0
+8,1,1,Suburban,Colegiales,0,Web,No offer,1,Motion graphics,Instagram,Other,29,572.7
+3,1,0,Rural,Belgrano,0,Web,No offer,0,Films,Facebook,M,44,465.7
+6,0,0,Suburban,Colegiales,0,Phone,No offer,1,Motion graphics,Linkedin,F,49,576.6
+9,1,0,Urban,Palermo,0,Phone,Buy one get one,0,Motion graphics,Instagram,M,27,534.5
+1,0,1,Suburban,Boedo,0,Multichannel,Discount,1,Films,Facebook,F,30,657.4
+7,0,1,Rural,Paternal,0,Phone,Buy one get one,0,Photography,Instagram,F,29,506.5
+5,0,1,Urban,Paternal,1,Multichannel,No offer,0,Motion graphics,Linkedin,M,57,590.7
+1,1,0,Urban,Boedo,0,Multichannel,Discount,1,Photography,Instagram,Other,28,581.9
+10,1,0,Suburban,La Boca,0,Web,Discount,1,Films,Facebook,F,46,462.3
+8,0,0,Rural,Saavedra,0,Web,Buy one get one,1,Motion graphics,Instagram,F,34,484.9
+6,1,1,Urban,Caballito,1,Multichannel,Discount,1,Motion graphics,Instagram,Other,32,519.8
+6,1,1,Rural,La Boca,1,Phone,No offer,0,Motion graphics,Instagram,F,56,561.3
+6,0,1,Suburban,Las Catitas,0,Multichannel,Buy one get one,1,Motion graphics,Instagram,F,31,572.8
+6,0,1,Urban,Colegiales,1,Web,Buy one get one,0,Films,Instagram,Other,53,656.0
+1,1,0,Urban,Colegiales,0,Web,No offer,1,Motion graphics,Instagram,M,43,559.1
+6,1,1,Urban,Belgrano,0,Phone,Buy one get one,0,Films,Instagram,Other,56,568.9
+5,0,0,Urban,Palermo,1,Multichannel,No offer,1,Films,Instagram,Other,25,481.6
+8,1,1,Rural,Parque Patricios,1,Phone,No offer,1,Photography,Facebook,F,44,462.0
+10,0,1,Urban,Paternal,0,Multichannel,Buy one get one,1,Motion graphics,Facebook,Other,28,505.6
+5,0,1,Rural,Villa Urquiza,1,Phone,Buy one get one,1,Motion graphics,Instagram,M,56,549.9
+3,1,1,Suburban,Villa Urquiza,1,Web,Discount,0,Films,Instagram,M,48,545.2
+5,1,1,Suburban,Nuñez,0,Multichannel,Buy one get one,1,Films,Facebook,Other,54,569.3
+4,1,0,Rural,Parque Patricios,0,Phone,No offer,1,Photography,Linkedin,F,37,523.0
+10,0,0,Rural,Saavedra,1,Phone,No offer,0,Motion graphics,Instagram,M,35,473.5
+8,1,1,Urban,Parque Patricios,1,Web,Buy one get one,0,Photography,Facebook,F,55,470.5
+8,0,0,Rural,Paternal,1,Web,Buy one get one,1,Photography,Facebook,M,39,477.2
+10,1,0,Rural,Recoleta,0,Phone,Buy one get one,1,Films,Facebook,M,41,486.9
+9,1,0,Urban,Villa Urquiza,0,Phone,Buy one get one,0,Films,Facebook,M,38,580.9
+5,1,1,Suburban,Colegiales,0,Phone,Buy one get one,1,Motion graphics,Facebook,F,42,401.2
+2,1,0,Rural,Boedo,1,Phone,Buy one get one,1,Motion graphics,Instagram,M,46,439.5
+5,0,0,Urban,Villa Urquiza,0,Multichannel,Buy one get one,0,Photography,Facebook,M,36,513.0
+2,0,1,Rural,Saavedra,1,Phone,No offer,1,Motion graphics,Facebook,M,25,489.1
+10,1,1,Suburban,Paternal,1,Multichannel,Buy one get one,0,Films,Instagram,Other,41,631.5
+5,0,1,Urban,Parque Patricios,0,Web,Buy one get one,1,Motion graphics,Facebook,Other,57,551.9
+2,0,0,Urban,Palermo,1,Multichannel,No offer,0,Motion graphics,Instagram,M,60,555.6
+8,0,1,Urban,Colegiales,1,Multichannel,Buy one get one,0,Films,Facebook,M,52,382.9
+8,0,1,Rural,Palermo,0,Phone,No offer,1,Films,Linkedin,F,47,590.2
+3,1,0,Rural,Belgrano,1,Web,Buy one get one,1,Photography,Facebook,M,32,604.3
+5,1,0,Urban,Recoleta,1,Web,Discount,1,Motion graphics,Instagram,M,46,516.3
+5,0,1,Rural,Colegiales,0,Phone,No offer,1,Films,Linkedin,M,33,601.0
+4,1,0,Rural,Colegiales,0,Phone,Buy one get one,0,Motion graphics,Facebook,M,52,519.7
+6,0,0,Rural,Parque Patricios,0,Phone,No offer,0,Motion graphics,Instagram,M,39,478.5
+9,1,0,Suburban,Caballito,0,Multichannel,No offer,0,Motion graphics,Instagram,M,52,559.2
+2,0,0,Urban,Saavedra,0,Phone,Buy one get one,0,Films,Facebook,Other,30,644.1
+8,0,0,Suburban,La Boca,0,Multichannel,Buy one get one,1,Films,Facebook,M,32,581.4
+5,1,1,Suburban,Nuñez,1,Web,Discount,1,Photography,Facebook,Other,53,544.1
+6,1,1,Suburban,Paternal,1,Multichannel,Buy one get one,0,Motion graphics,Instagram,Other,60,525.8
+9,0,0,Suburban,Colegiales,0,Web,Buy one get one,0,Films,Facebook,F,31,587.1
+4,1,0,Suburban,Saavedra,0,Phone,No offer,1,Films,Instagram,F,31,529.3
+10,0,0,Suburban,Nuñez,0,Web,Buy one get one,1,Motion graphics,Facebook,Other,34,487.5
+5,1,0,Rural,Colegiales,1,Phone,No offer,0,Motion graphics,Linkedin,M,60,513.6
+6,0,1,Rural,Palermo,0,Phone,No offer,0,Films,Instagram,M,57,492.4
+4,0,0,Suburban,Belgrano,1,Multichannel,Discount,1,Motion graphics,Linkedin,F,33,470.7
+2,0,1,Rural,Caballito,1,Phone,No offer,1,Motion graphics,Facebook,F,57,606.7
+4,0,1,Urban,Las Catitas,1,Multichannel,Buy one get one,0,Motion graphics,Instagram,M,31,425.9
+9,1,0,Rural,Caballito,0,Web,Buy one get one,1,Motion graphics,Facebook,M,57,544.7
+5,1,1,Urban,Belgrano,1,Web,No offer,0,Films,Linkedin,Other,52,410.4
+10,1,0,Urban,Recoleta,1,Multichannel,No offer,0,Photography,Linkedin,M,43,523.0
+6,0,0,Rural,Colegiales,0,Phone,No offer,0,Motion graphics,Linkedin,M,32,573.8
+1,0,0,Suburban,Boedo,0,Web,Discount,0,Motion graphics,Linkedin,M,38,578.3
+1,0,0,Urban,Colegiales,0,Multichannel,Buy one get one,1,Films,Instagram,F,46,579.0
+1,0,0,Suburban,Villa Urquiza,0,Web,Discount,0,Photography,Linkedin,M,46,463.4
+1,1,1,Urban,Colegiales,1,Multichannel,Buy one get one,1,Films,Instagram,F,59,558.1
+6,1,0,Suburban,La Boca,1,Web,Buy one get one,0,Motion graphics,Facebook,F,25,433.5
+2,0,0,Suburban,Belgrano,0,Phone,No offer,0,Motion graphics,Instagram,Other,26,378.5
+8,0,0,Suburban,Caballito,1,Web,Buy one get one,0,Motion graphics,Facebook,F,32,524.4
+8,1,0,Suburban,Parque Patricios,1,Web,Buy one get one,0,Films,Facebook,Other,34,518.9
+1,1,0,Urban,La Boca,1,Multichannel,Discount,1,Photography,Linkedin,Other,41,443.6
+4,0,1,Suburban,Parque Patricios,1,Web,Discount,0,Motion graphics,Linkedin,Other,42,478.9
+3,0,0,Urban,Parque Patricios,1,Web,Buy one get one,1,Photography,Facebook,M,41,579.1
+1,0,1,Suburban,Boedo,0,Web,Buy one get one,0,Motion graphics,Facebook,Other,50,529.0
+8,0,0,Urban,La Boca,1,Phone,Buy one get one,0,Motion graphics,Facebook,M,42,517.3
+1,0,0,Urban,Palermo,1,Multichannel,Buy one get one,0,Motion graphics,Facebook,Other,36,522.3
+9,1,1,Urban,Las Catitas,0,Multichannel,Discount,0,Motion graphics,Linkedin,F,53,513.7
+1,1,0,Suburban,Colegiales,1,Multichannel,Buy one get one,0,Motion graphics,Instagram,Other,55,517.8
+8,0,1,Suburban,Colegiales,1,Web,Buy one get one,0,Motion graphics,Facebook,M,52,496.7
+5,1,1,Suburban,Parque Patricios,0,Web,Buy one get one,0,Films,Instagram,F,44,658.5
+6,1,1,Suburban,Colegiales,1,Web,Discount,0,Motion graphics,Facebook,M,49,540.4
+7,1,0,Suburban,Belgrano,0,Phone,Discount,1,Photography,Linkedin,M,52,465.5
+5,0,0,Urban,Palermo,1,Web,No offer,1,Films,Linkedin,M,28,513.8
+1,0,1,Urban,Palermo,0,Multichannel,Discount,0,Films,Facebook,Other,31,528.5
+10,1,1,Suburban,Nuñez,0,Multichannel,Buy one get one,1,Photography,Facebook,F,55,598.4
+10,1,1,Suburban,La Boca,1,Phone,Buy one get one,0,Motion graphics,Instagram,Other,44,594.5
+10,1,0,Rural,Parque Patricios,0,Web,No offer,0,Photography,Instagram,M,45,413.1
+10,1,0,Urban,La Boca,1,Multichannel,Buy one get one,0,Films,Instagram,M,46,472.8
+8,1,1,Suburban,Belgrano,1,Multichannel,Discount,1,Photography,Instagram,M,37,520.6
+1,1,0,Urban,Saavedra,1,Web,Buy one get one,1,Motion graphics,Facebook,M,54,622.9
+6,1,1,Suburban,Colegiales,1,Web,Discount,1,Motion graphics,Linkedin,M,49,528.6
+10,0,1,Suburban,Belgrano,0,Web,Buy one get one,0,Photography,Instagram,Other,49,499.9
+1,1,1,Rural,Palermo,1,Phone,Buy one get one,1,Motion graphics,Facebook,M,52,461.9
+2,1,1,Suburban,Boedo,0,Phone,Buy one get one,0,Films,Facebook,F,38,511.0
+2,1,1,Urban,Saavedra,0,Web,Buy one get one,1,Photography,Instagram,Other,35,580.3
+4,1,1,Suburban,Paternal,0,Web,Buy one get one,0,Photography,Facebook,M,33,471.7
+9,0,1,Urban,Las Catitas,0,Phone,Discount,1,Photography,Facebook,Other,48,544.4
+10,0,0,Rural,Recoleta,1,Phone,Buy one get one,1,Films,Facebook,F,39,464.3
+10,0,0,Suburban,Boedo,1,Web,No offer,1,Motion graphics,Facebook,Other,36,469.7
+3,1,1,Urban,Caballito,1,Multichannel,No offer,0,Motion graphics,Instagram,M,29,465.7
+4,1,1,Rural,Boedo,0,Web,Buy one get one,1,Motion graphics,Facebook,M,36,495.9
+2,1,0,Suburban,Villa Urquiza,0,Web,Buy one get one,1,Photography,Instagram,Other,52,588.3
+5,1,1,Rural,Parque Patricios,0,Phone,No offer,1,Photography,Facebook,F,59,529.6
+8,1,0,Rural,Parque Patricios,1,Phone,Buy one get one,1,Photography,Instagram,M,25,556.2
+10,1,1,Suburban,Boedo,0,Web,Buy one get one,0,Motion graphics,Facebook,M,45,519.5
+1,1,0,Suburban,Paternal,1,Web,No offer,1,Films,Facebook,Other,31,485.1
+6,1,1,Rural,Palermo,0,Phone,No offer,1,Motion graphics,Linkedin,M,31,526.3
