@@ -26,14 +26,23 @@ Pandas para analisis y Plotly para gráficos
 import pandas as pd
 import plotly.express as px
 ```
+# DESAFÍO 1. Análisis Descriptivo.
 
-# Link Google Sheets: https://docs.google.com/spreadsheets/d/17vbJzKucjz-44uT-pCSyfmk7rANEtNAfMHkL4YEdyiQ/edit#gid=1461304237
+- Link Google Sheets: https://docs.google.com/spreadsheets/d/17vbJzKucjz-44uT-pCSyfmk7rANEtNAfMHkL4YEdyiQ/edit#gid=1461304237
 
-# Link google slides: https://docs.google.com/presentation/d/1d12_yyxoevgakewwIOBFqmfLUwUrixSq_dKVKkWkvWA/edit#slide=id.g1dcbfe6acde_0_51
+- Link google slides: https://docs.google.com/presentation/d/1d12_yyxoevgakewwIOBFqmfLUwUrixSq_dKVKkWkvWA/edit?usp=sharing
 
-# LINK CSV: 'https://raw.githubusercontent.com/Sifrisky/business_analytics/main/data_tata.csv'
+- LINK CSV: 'https://raw.githubusercontent.com/Sifrisky/business_analytics/main/data_tata.csv'
 
-# Link Google Colab: https://colab.research.google.com/github/Sifrisky/business_analytics/blob/main/TareaCoder.ipynb
+- Link Google Colab: https://colab.research.google.com/github/Sifrisky/business_analytics/blob/main/TareaCoder.ipynb
 
+
+# DESAFIO 2. Regresion Lineal.
+
+- Link google slides: https://docs.google.com/presentation/d/1_Uri6tDecvH0FhcLECXnuFskURJ5yyLJzcDaOeboDGk/edit?usp=sharing
+
+- LINK CSV: https://drive.google.com/file/d/1AYygtdFaNQRFjiyuFOBj3vYFU3KkvM4i/view?usp=share_link
+
+- Link Google Colab: https://colab.research.google.com/github/Sifrisky/business_analytics/blob/main/Desafio_002.ipynb
 
 Made with a lot of 💕 by Sifrisky.
