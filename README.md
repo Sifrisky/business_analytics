@@ -30,6 +30,7 @@ import plotly.express as px
 
 - Link Google slides: https://docs.google.com/presentation/d/14F3IaRiNpE8ah9zCdkmeSUlTsWiBLEJX3A-fi3rSF0k/edit?usp=sharing
 
+
 # DESAFÍO 2. Análisis Descriptivo.
 
 - Link Google Sheets: https://docs.google.com/spreadsheets/d/17vbJzKucjz-44uT-pCSyfmk7rANEtNAfMHkL4YEdyiQ/edit#gid=1461304237
@@ -38,7 +39,7 @@ import plotly.express as px
 
 - LINK CSV: 'https://raw.githubusercontent.com/Sifrisky/business_analytics/main/data_tata.csv'
 
-- Link Google Colab: https://colab.research.google.com/github/Sifrisky/business_analytics/blob/main/TareaCoder.ipynb
+- Link Google Colab: https://colab.research.google.com/github/Sifrisky/business_analytics/blob/main/Desafio_002.ipynb
 
 
 # DESAFIO 3. Regresion Lineal.
