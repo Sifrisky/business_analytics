@@ -47,6 +47,6 @@ import plotly.express as px
 
 - LINK CSV: https://drive.google.com/file/d/1AYygtdFaNQRFjiyuFOBj3vYFU3KkvM4i/view?usp=share_link
 
-- Link Google Colab: https://colab.research.google.com/github/Sifrisky/business_analytics/blob/main/Desafio_002.ipynb
+- Link Google Colab: https://colab.research.google.com/github/Sifrisky/business_analytics/blob/main/Desafio_003.ipynb
 
 Made with a lot of 💕 by Sifrisky.
