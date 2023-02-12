@@ -25,7 +25,12 @@ Pandas para analisis y Plotly para gráficos
 import pandas as pd
 import plotly.express as px
 ```
-# DESAFÍO 1. Análisis Descriptivo.
+
+# DESAFÍO 1. Business Model Canvas & Stakeholders.
+
+- Link Google slides: https://docs.google.com/presentation/d/14F3IaRiNpE8ah9zCdkmeSUlTsWiBLEJX3A-fi3rSF0k/edit?usp=sharing
+
+# DESAFÍO 2. Análisis Descriptivo.
 
 - Link Google Sheets: https://docs.google.com/spreadsheets/d/17vbJzKucjz-44uT-pCSyfmk7rANEtNAfMHkL4YEdyiQ/edit#gid=1461304237
 
@@ -36,7 +41,7 @@ import plotly.express as px
 - Link Google Colab: https://colab.research.google.com/github/Sifrisky/business_analytics/blob/main/TareaCoder.ipynb
 
 
-# DESAFIO 2. Regresion Lineal.
+# DESAFIO 3. Regresion Lineal.
 
 - Link google slides: https://docs.google.com/presentation/d/1_Uri6tDecvH0FhcLECXnuFskURJ5yyLJzcDaOeboDGk/edit?usp=sharing
 
