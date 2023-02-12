@@ -1,9 +1,8 @@
 # Business_analytics Course. 
 Este repositorio esta hecho con la finalidad de presentar mis proyectos de Business Analytics
 
-## Actividad 1. Análisis descriptivo
 
-_La tarea se realizó con las herramientas de google colab para el desarrollo y anális de los resultados a partir de una base de datos creada para el estudio_
+_Los desafíos se realizaron con las herramientas de google colab para el desarrollo y anális de los resultados a partir de una base de datos creada para el estudio_
 
 
 # Comenzamos 🚀
